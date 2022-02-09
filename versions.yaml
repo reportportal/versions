@@ -8,23 +8,3 @@ docker:
   ui: SNAPSHOT-1361
   analyzer: SNAPSHOT-1234
   metricsgatherer: 1.1.17
-
-kubernetes:
-  migrations: SNAPSHOT-276
-  authorization: SNAPSHOT-1008
-  authorizationEpam: 5.6.3
-  index: SNAPSHOT-47
-  api: SNAPSHOT-1943
-  jobs: SNAPSHOT-17
-  jobsbill: RC-37
-  ui: SNAPSHOT-1361
-  analyzer: SNAPSHOT-1234
-  metricsgatherer: 1.1.17
-
-components:
-  elasticsearch: 7.10.1
-  posgresql: 12-alpine
-  rabbitmq: 3.7.16-management
-  minio: RELEASE.2020-10-27T04-03-55Z
-  traefik: v2.0.7
-  
