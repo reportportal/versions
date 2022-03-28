@@ -2,9 +2,9 @@ docker:
   migrations: SNAPSHOT-278
   authorization: SNAPSHOT-1054
   index: SNAPSHOT-47
-  api: SNAPSHOT-2036
+  api: SNAPSHOT-2045
   jobs: SNAPSHOT-17
   jobsbill: RC-68
-  ui: SNAPSHOT-1440
+  ui: SNAPSHOT-1443
   analyzer: SNAPSHOT-1257
   metricsgatherer: 1.1.17
