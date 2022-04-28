@@ -7,4 +7,4 @@ docker:
   jobsbill: RC-68
   ui: SNAPSHOT-1490
   analyzer: SNAPSHOT-1357
-  metricsgatherer: SNAPSHOT-74
+  metricsgatherer: 1.1.17
