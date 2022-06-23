@@ -5,6 +5,6 @@ docker:
   api: SNAPSHOT-14
   jobs: SNAPSHOT-33
   jobsbill: SNAPSHOT-5
-  ui: SNAPSHOT-14
+  ui: SNAPSHOT-17
   analyzer: SNAPSHOT-1357
   metricsgatherer: 1.1.19
