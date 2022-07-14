@@ -2,8 +2,8 @@ docker:
   migrations: 5.7.0
   authorization: 5.7.0
   index: 5.0.11
-  api: 5.7.1
-  jobs: 5.7.1
-  ui: 5.7.0
-  analyzer: 5.7.1
-  metricsgatherer: 1.1.19
+  api: 5.7.2
+  jobs: 5.7.2
+  ui: 5.7.2
+  analyzer: 5.7.2
+  metricsgatherer: 1.1.20
