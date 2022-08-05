@@ -1,8 +1,8 @@
 docker:
-  migrations: SNAPSHOT-10
+  migrations: SNAPSHOT-11
   authorization: 5.7.0
   index: SNAPSHOT-48
-  api: SNAPSHOT-52
+  api: SNAPSHOT-53
   jobs: SNAPSHOT-33
   jobsbill: RC-81
   ui: SNAPSHOT-77
