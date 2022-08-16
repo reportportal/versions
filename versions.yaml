@@ -1,5 +1,5 @@
 docker:
-  migrations: SNAPSHOT-8
+  migrations: SNAPSHOT-9
   authorization: 5.7.0
   index: SNAPSHOT-48
   api: SNAPSHOT-59
