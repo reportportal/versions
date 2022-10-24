@@ -2,7 +2,7 @@ docker:
   migrations: 5.7.3-RC-5
   authorization: 5.7.3-RC-6
   index: 5.7.3-RC-9
-  api: 5.7.3-RC-8
+  api: 5.7.3-RC-9
   jobs: 5.7.3-RC-7
   ui: 5.7.3-RC-9
   analyzer: 5.7.3-RC-8
