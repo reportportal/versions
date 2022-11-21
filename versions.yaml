@@ -1,10 +1,10 @@
 docker:
-  migrations: 5.7.2-RC-4
+  migrations: 5.7.0
   authorization: 5.7.0
-  index: SNAPSHOT-48
+  index: 5.0.11
   api: SNAPSHOT-161
   jobs: 5.7.2
   jobsbill: RC-81
   ui: SNAPSHOT-180
-  analyzer: SNAPSHOT-1357
-  metricsgatherer: 1.1.19
+  analyzer: 5.7.2
+  metricsgatherer: 1.1.20
