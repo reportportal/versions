@@ -5,6 +5,6 @@ docker:
   api: SNAPSHOT-161
   jobs: 5.7.2
   jobsbill: RC-81
-  ui: SNAPSHOT-182
+  ui: SNAPSHOT-198
   analyzer: 5.7.2
   metricsgatherer: 1.1.20
