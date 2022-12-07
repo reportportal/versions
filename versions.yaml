@@ -3,7 +3,7 @@ docker:
   authorization: 5.7.3-RC-release
   index: 5.7.3-RC-release
   api: 5.7.3-RC-release
-  jobs: 5.7.3-RC-disable-culc
+  jobs: 5.7.3-RC
   ui: 5.7.3-RC-release
   analyzer: 5.7.3-RC-release
   metricsgatherer: 5.7.3-RC-release
