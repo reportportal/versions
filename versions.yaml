@@ -3,8 +3,8 @@ docker:
   authorization: 5.7.3-epam-RC-release
   index: 5.7.3-RC-release
   api: 5.7.3-RC-release
-  jobs: 5.7.3-RC-release
-  jobsbill: 5.7.3-RC-release
+  jobs: null
+  jobsbill: 5.7.3-RC
   ui: 5.7.3-RC-release
   analyzer: 5.7.3-RC-release
   metricsgatherer: 5.7.3-RC-release
