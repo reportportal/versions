@@ -1,6 +1,6 @@
 docker:
   migrations: 5.7.3-RC-release
-  authorization: 5.7.0-EPAM
+  authorization: 5.7.0-EPAM-release
   index: 5.7.3-RC-release
   api: 5.7.3-RC-release
   jobs: null
