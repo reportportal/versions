@@ -1,9 +1,9 @@
 docker:
   migrations: 5.7.3-RC-release
-  authorization: 5.7.3-RC-release
+  authorization: 5.7.4-RC-Release
   index: 5.7.3-RC-release
-  api: 5.7.3-RC-release
-  jobs: 5.7.3-RC-master
-  ui: 5.7.3-RC-release
-  analyzer: 5.7.3-RC-release
+  api: 5.7.4-RC-Release
+  jobs: 5.7.4-RC-Release
+  ui: 5.7.4-RC-Release
+  analyzer: 5.7.4-RC-Release
   metricsgatherer: 5.7.3-RC-release
