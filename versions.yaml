@@ -1,9 +1,11 @@
 docker:
-  migrations: 5.7.3
-  authorization: 5.7.4
-  index: 5.7.3
-  api: 5.7.4
-  jobs: 5.7.4
-  ui: 5.7.4
-  analyzer: 5.7.4
-  metricsgatherer: 5.7.3
+  migrations: SNAPSHOT-38
+  migrationscomplex: SNAPSHOT-3
+  authorization: 5.7.0
+  index: SNAPSHOT-48
+  api: SNAPSHOT-235
+  jobs: SNAPSHOT-12
+  jobsbill: SNAPSHOT-17
+  ui: SNAPSHOT-243
+  analyzer: SNAPSHOT-1357
+  metricsgatherer: 1.1.19
