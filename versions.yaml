@@ -1,6 +1,6 @@
 docker:
   migrations: SNAPSHOT-38
-  migrationscomplex: SNAPSHOT-5
+  migrationscomplex: SNAPSHOT-6
   authorization: 5.7.4
   index: SNAPSHOT-48
   api: SNAPSHOT-235
