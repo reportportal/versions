@@ -1,9 +1,9 @@
 docker:
-  migrations: 23.1-RC-6
-  authorization: 23.1-RC-14
-  index: 23.1-RC-10
-  api: 23.1-RC-15
-  jobs: 23.1-RC-17
+  migrations: 5.8.0-RC-7
+  authorization: 5.8.0-RC-15
+  index: 5.8.0-RC-12
+  api: 5.8.0-RC-16
+  jobs: 5.8.0-RC-18
   jobsbill: RC-81
   ui: SNAPSHOT-197
   analyzer: SNAPSHOT-1357
