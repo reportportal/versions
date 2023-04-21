@@ -5,6 +5,6 @@ docker:
   api: 5.8.0-RC-17
   jobs: 5.8.0-RC-18
   jobsbill: RC-81
-  ui: 5.8.0-RC-18
+  ui: 5.8.0-RC-19
   analyzer: 5.7.5-RC-13
   metricsgatherer: 5.7.4-RC-7
