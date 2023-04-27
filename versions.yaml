@@ -3,7 +3,7 @@ docker:
   authorization: 5.8.0-RC-17
   index: 5.8.0-RC-12
   api: 5.8.0-RC-18
-  jobs: 5.8.0-RC-18
+  jobs: 5.8.0-RC-19
   jobsbill: RC-81
   ui: 5.8.0-RC-19
   analyzer: 5.7.5-RC-13
