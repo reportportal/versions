@@ -1,9 +1,9 @@
 docker:
   migrations: 5.8.0
-  authorization: 5.8.0
+  authorization: 5.8.0-epam
   index: 5.8.0-RC-12
   api: 5.8.0
-  jobs: 5.8.0
+  jobs: null
   jobsbill: 5.8.0-epam
   ui: 5.8.0-RC-19
   analyzer: 5.7.5-RC-13
