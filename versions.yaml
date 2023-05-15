@@ -1,5 +1,5 @@
 docker:
-  migrations: 5.8.0
+  migrations: 5.8.0-RC-7
   authorization: 5.8.0-epam
   index: 5.8.0-RC-12
   api: 5.8.0
