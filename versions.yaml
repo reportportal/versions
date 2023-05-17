@@ -1,10 +1,10 @@
 docker:
-  migrations: 5.8.0-RC-7
+  migrations: 5.8.0
   authorization: 5.8.0-epam-release
-  index: 5.8.0-RC-12
+  index: 5.8.0
   api: 5.8.0
   jobs: null
-  jobsbill: 5.8.0
+  jobsbill: 5.8.0-billing
   ui: 5.8.0
-  analyzer: 5.7.5-RC-13
-  metricsgatherer: 5.7.4-RC-7
+  analyzer: 5.7.5
+  metricsgatherer: 5.7.4
