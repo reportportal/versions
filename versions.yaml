@@ -2,7 +2,7 @@ docker:
   migrations: SNAPSHOT-47
   authorization: SNAPSHOT-28
   index: SNAPSHOT-11
-  api: SNAPSHOT-280
+  api: SNAPSHOT-282
   jobs: SNAPSHOT-38
   ui: SNAPSHOT-330
   analyzer: SNAPSHOT-4
