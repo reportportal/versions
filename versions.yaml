@@ -1,6 +1,6 @@
 docker:
   migrations: SNAPSHOT-54
-  authorization: 5.7.4
+  authorization: 5.8.0
   index: SNAPSHOT-48
   api: SNAPSHOT-296
   jobs: SNAPSHOT-12
