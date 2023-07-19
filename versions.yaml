@@ -3,7 +3,7 @@ docker:
   authorization: SNAPSHOT-28
   index: SNAPSHOT-48
   api: SNAPSHOT-310
-  jobs: SNAPSHOT-12
+  jobs: SNAPSHOT-41
   jobsbill: SNAPSHOT-17
   ui: SNAPSHOT-364
   analyzer: SNAPSHOT-1357
