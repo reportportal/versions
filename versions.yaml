@@ -1,7 +1,7 @@
 docker:
   migrations: 5.9.0
   authorization: 5.8.2-RC-19
-  index: 5.7.3-RC-release
+  index: 5.8.0
   api: 5.9.1-RC-21
   jobs: 5.8.2-RC-26
   ui: 5.9.0
