@@ -3,7 +3,7 @@ docker:
   authorization: 5.8.0-epam-release
   index: SNAPSHOT-48
   api: SNAPSHOT-337
-  jobs: SNAPSHOT-53
+  jobs: SNAPSHOT-56
   jobsbill: null
   ui: SNAPSHOT-373
   analyzer: SNAPSHOT-1357
