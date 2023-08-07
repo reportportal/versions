@@ -1,6 +1,6 @@
 docker:
   migrations: SNAPSHOT-59
-  authorization: SNAPSHOT-28
+  authorization: 5.8.0-epam-release
   index: SNAPSHOT-48
   api: SNAPSHOT-337
   jobs: SNAPSHOT-53
