@@ -4,6 +4,7 @@ docker:
   index: 5.8.0
   api: 5.8.0-exportFix
   jobs: 5.8.0
+  jobsbill: 5.8.0-billing
   ui: 5.8.0
   analyzer: 5.7.5
   metricsgatherer: 5.7.4
