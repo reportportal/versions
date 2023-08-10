@@ -5,7 +5,7 @@ docker:
   index: 5.8.0
   api: 5.9.2-RC-25
   jobs: null
-  jobsbill: 5.8.0-billing
+  jobsbill: 5.8.1
   ui: 5.9.0
   analyzer: 5.7.6
   metricsgatherer: 5.7.5
