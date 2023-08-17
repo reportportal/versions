@@ -2,8 +2,8 @@ docker:
   migrations: 5.9.0
   authorization: 5.8.2
   index: 5.8.0
-  api: 5.9.2
-  jobs: null
+  api: 5.8.1-RC-Release-epam
+  jobs: 5.8.1
   jobsbill: 5.8.1-epam
   ui: 5.9.0
   analyzer: 5.7.6
