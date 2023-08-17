@@ -1,6 +1,6 @@
 docker:
   migrations: 5.8.0
-  authorization: 5.8.0-epam-release
+  authorization: 5.8.0
   index: 5.8.0
   api: 5.8.0-exportFix
   jobs: 5.8.0
