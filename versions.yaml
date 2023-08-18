@@ -1,10 +1,10 @@
 docker:
-  migrations: 5.8.0
+  migrations: 5.9.0-RC-8
   authorization: 5.8.0
-  index: 5.8.0
-  api: 5.8.0-exportFix
-  jobs: 5.8.0
-  jobsbill: 5.8.0-billing
-  ui: 5.8.0
-  analyzer: 5.7.5
-  metricsgatherer: 5.7.4
+  index: 5.8.0-RC-12
+  api: 5.9.0-RC-20
+  jobs: 5.8.1-RC-24
+  jobsbill: null
+  ui: 5.9.0-RC-20
+  analyzer: 5.7.6-RC-15
+  metricsgatherer: 5.7.5-RC-8
