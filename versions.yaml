@@ -1,6 +1,6 @@
 docker:
   migrations: 5.9.0-RC-8
-  authorization: 5.8.0
+  authorization: SNAPSHOT-34
   index: 5.8.0-RC-12
   api: 5.9.0-RC-20
   jobs: 5.8.1-RC-24
