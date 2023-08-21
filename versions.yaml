@@ -5,6 +5,6 @@ docker:
   api: 5.9.0-RC-20
   jobs: 5.8.1-RC-24
   jobsbill: null
-  ui: 5.9.0-RC-20
+  ui: SNAPSHOT-383
   analyzer: 5.7.6-RC-15
   metricsgatherer: 5.7.5-RC-8
