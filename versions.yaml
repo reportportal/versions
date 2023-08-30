@@ -1,7 +1,7 @@
 docker:
   migrations: 5.10.0-RC-9
   authorization: 5.10.0-RC-20
-  index: SNAPSHOT-48
+  index: rc-5.10.0
   api: 5.10.0-RC-28
   jobs: 5.10.0-RC-26
   jobsbill: null
