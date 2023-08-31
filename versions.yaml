@@ -1,5 +1,5 @@
 docker:
-  migrations: 5.9.0
+  migrations: SNAPSHOT-60
   authorization: 5.8.2-RC-Release-epam
   index: 5.8.0
   api: SNAPSHOT-363
