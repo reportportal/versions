@@ -1,5 +1,5 @@
 docker:
-  migrations: 5.10.0-RC-9
+  migrations: rc-5.10.0
   authorization: rc-5.10.0
   index: rc-5.10.0
   api: rc-5.10.0
