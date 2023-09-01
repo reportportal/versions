@@ -1,9 +1,9 @@
 docker:
   migrations: 5.10.0-RC-9
-  authorization: 5.10.0-RC-20
+  authorization: rc-5.10.0
   index: rc-5.10.0
   api: rc-5.10.0
-  jobs: 5.10.0-RC-26
+  jobs: rc-5.10.0
   jobsbill: null
   ui: rc-5.10.0
   analyzer: rc-5.10.0
