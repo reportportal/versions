@@ -2,7 +2,7 @@ docker:
   migrations: 5.9.0
   authorization: 5.8.2-RC-Release-epam
   index: 5.8.0
-  api: 5.9.2
+  api: SNAPSHOT-364
   jobs: 5.8.1
   jobsbill: 5.8.1-epam
   ui: 5.9.0
