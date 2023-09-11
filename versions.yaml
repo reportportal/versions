@@ -6,5 +6,5 @@ docker:
   jobs: 5.8.1
   jobsbill: 5.8.1-epam
   ui: 5.9.0
-  analyzer: SNAPSHOT-7
+  analyzer: 5.7.6
   metricsgatherer: 5.7.5
