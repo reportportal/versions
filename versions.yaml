@@ -1,8 +1,8 @@
 docker:
-  migrations: SNAPSHOT-60
+  migrations: SNAPSHOT-62
   authorization: 5.8.2-RC-Release-epam
   index: 5.8.0
-  api: SNAPSHOT-363
+  api: SNAPSHOT-364
   jobs: 5.8.1
   jobsbill: null
   ui: 5.9.0
