@@ -2,7 +2,7 @@ docker:
   migrations: SNAPSHOT-59
   authorization: SNAPSHOT-34
   index: SNAPSHOT-48
-  api: EPMRPP-80519-project-bucket-deletion-24
+  api: SNAPSHOT-372
   jobs: SNAPSHOT-59
   jobsbill: SNAPSHOT-17
   ui: SNAPSHOT-399
