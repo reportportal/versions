@@ -6,5 +6,5 @@ docker:
   jobs: rc-5.10.0
   jobsbill: null
   ui: rc-5.10.0-13
-  analyzer: rc-5.10.0
+  analyzer: rc-5.10.0-5
   metricsgatherer: rc-5.10.0
