@@ -1,6 +1,6 @@
 docker:
   migrations: rc-5.10.0
-  authorization: 5.10.0-RC-Release-epam
+  authorization: 5.10.0-RC-1-Release-epam
   index: rc-5.10.0-5
   api: rc-5.10.0-6
   jobs: rc-5.10.0
