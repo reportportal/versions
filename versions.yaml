@@ -4,7 +4,7 @@ docker:
   index: rc-5.10.0-5
   api: rc-5.10.0-6
   jobs: rc-5.10.0
-  jobsbill: 5.10.0-RC-Release-epam
+  jobsbill: 5.10.0-RC-1-Release-epam
   ui: rc-5.10.0-13
   analyzer: rc-5.10.0-5
   metricsgatherer: rc-5.10.0
