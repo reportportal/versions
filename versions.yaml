@@ -1,9 +1,9 @@
 docker:
-  migrations: 5.9.0
-  authorization: 5.8.1
-  index: 5.8.0
-  api: 5.9.0
-  jobs: 5.8.1
-  ui: 5.9.0
-  analyzer: 5.7.6
-  metricsgatherer: 5.7.5
+  migrations: 5.10.0
+  authorization: 5.10.0
+  index: 5.10.0
+  api: 5.10.0
+  jobs: 5.10.0
+  ui: 5.10.0
+  analyzer: 5.10.0
+  metricsgatherer: 5.10.0
