@@ -4,7 +4,6 @@ docker:
   index: rc-5.10.0-5
   api: SNAPSHOT-388
   jobs: SNAPSHOT-60
-  jobsbill: 5.10.0-RC-1-Release-epam
   ui: SNAPSHOT-408
   analyzer: SNAPSHOT-1357
   metricsgatherer: 1.1.19
