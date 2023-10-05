@@ -1,10 +1,10 @@
 docker:
-  migrations: SNAPSHOT-62
+  migrations: rc-5.10.0
   authorization: 5.7.4-RC-13
-  index: 5.8.0
-  api: SNAPSHOT-363
-  jobs: 5.8.1
-  jobsbill: null
-  ui: 5.9.0
-  analyzer: SNAPSHOT-7
-  metricsgatherer: 5.7.5
+  index: rc-5.10.0-5
+  api: rc-5.10.0-6
+  jobs: rc-5.10.0
+  jobsbill: 5.10.0-RC-1-Release-epam
+  ui: rc-5.10.0-13
+  analyzer: rc-5.10.0-5
+  metricsgatherer: rc-5.10.0
