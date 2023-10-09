@@ -1,9 +1,10 @@
 docker:
   migrations: SNAPSHOT-66
-  authorization: SNAPSHOT-36
+  authorization: 5.10.0-RC-4-Release-epam
   index: rc-5.10.0-5
   api: SNAPSHOT-393
-  jobs: SNAPSHOT-61
+  jobs: rc-5.10.0
+  jobsbill: 5.10.0-RC-1-Release-epam
   ui: SNAPSHOT-409
-  analyzer: SNAPSHOT-1357
-  metricsgatherer: 1.1.19
+  analyzer: rc-5.10.0-5
+  metricsgatherer: rc-5.10.0
