@@ -2,8 +2,8 @@ docker:
   migrations: rc-5.10.0
   authorization: rc-5.10.0
   index: rc-5.10.0-5
-  api: SNAPSHOT-388
-  jobs: SNAPSHOT-61
+  api: rc-5.10.0-5
+  jobs: rc-5.10.0
   jobsbill: null
   ui: rc-5.10.0-13
   analyzer: rc-5.10.0-5
