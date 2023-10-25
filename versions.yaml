@@ -1,6 +1,6 @@
 docker:
   migrations: 5.10.0
-  authorization: 5.10.0
+  authorization: SNAPSHOT-37
   index: 5.10.1
   api: SNAPSHOT-415
   jobs: 5.10.0
