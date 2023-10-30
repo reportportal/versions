@@ -2,7 +2,7 @@ docker:
   migrations: SNAPSHOT-67
   authorization: SNAPSHOT-38
   index: rc-5.10.0-5
-  api: SNAPSHOT-418
+  api: SNAPSHOT-419
   jobs: delete-users-job-test-3
   ui: SNAPSHOT-419
   analyzer: SNAPSHOT-7
