@@ -5,5 +5,5 @@ docker:
   api: SNAPSHOT-419
   jobs: delete-users-job-test-3
   ui: SNAPSHOT-426
-  analyzer: SNAPSHOT-7
+  analyzer: SNAPSHOT-8
   metricsgatherer: 1.1.19
