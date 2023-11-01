@@ -6,4 +6,4 @@ docker:
   jobs: delete-users-job-test-3
   ui: SNAPSHOT-426
   analyzer: SNAPSHOT-8
-  metricsgatherer: 1.1.19
+  metricsgatherer: SNAPSHOT-6
