@@ -1,9 +1,10 @@
 docker:
-  migrations: 5.10.1
-  authorization: SNAPSHOT-37
+  migrations: 5.10.0
+  authorization: 5.10.0
   index: 5.10.1
   api: SNAPSHOT-425
-  jobs: delete-users-job
-  ui: SNAPSHOT-409
-  analyzer: SNAPSHOT-7
-  metricsgatherer: 1.1.19
+  jobs: 5.10.0
+  jobsbill: null
+  ui: 5.10.0
+  analyzer: 5.10.0
+  metricsgatherer: 5.10.0
