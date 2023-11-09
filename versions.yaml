@@ -4,6 +4,6 @@ docker:
   index: rc-5.10.0-5
   api: SNAPSHOT-426
   jobs: delete-users-job-test-3
-  ui: SNAPSHOT-432
+  ui: SNAPSHOT-433
   analyzer: SNAPSHOT-8
   metricsgatherer: SNAPSHOT-6
