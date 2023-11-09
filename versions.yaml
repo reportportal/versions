@@ -2,7 +2,7 @@ docker:
   migrations: SNAPSHOT-67
   authorization: SNAPSHOT-37
   index: 5.10.1
-  api: SNAPSHOT-415
+  api: SNAPSHOT-427
   jobs: EPMRPP-87272-delete-expired-users-no-attachments-37
   jobsbill: null
   ui: 5.10.0
