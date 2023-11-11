@@ -1,6 +1,6 @@
 docker:
   migrations: SNAPSHOT-67
-  authorization: EPMRPP-87048-18
+  authorization: SNAPSHOT-38
   index: rc-5.10.0-6
   api: SNAPSHOT-431
   jobs: delete-users-job-test-3
