@@ -2,7 +2,7 @@ docker:
   migrations: SNAPSHOT-67
   authorization: SNAPSHOT-38
   index: rc-5.10.0-6
-  api: SNAPSHOT-432
+  api: SNAPSHOT-433
   jobs: develop-2
   jobsbill: local-file-test
   ui: SNAPSHOT-441
