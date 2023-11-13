@@ -4,6 +4,6 @@ docker:
   index: rc-5.10.0-6
   api: SNAPSHOT-432
   jobs: develop-2
-  ui: SNAPSHOT-439
+  ui: SNAPSHOT-440
   analyzer: SNAPSHOT-12
   metricsgatherer: SNAPSHOT-6
