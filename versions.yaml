@@ -4,6 +4,6 @@ docker:
   index: rc-5.10.0-6
   api: SNAPSHOT-431
   jobs: local-file-storage-test
-  ui: SNAPSHOT-436
+  ui: SNAPSHOT-438
   analyzer: SNAPSHOT-11
   metricsgatherer: SNAPSHOT-6
