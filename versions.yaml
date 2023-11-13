@@ -5,5 +5,5 @@ docker:
   api: SNAPSHOT-432
   jobs: develop-2
   ui: SNAPSHOT-439
-  analyzer: SNAPSHOT-11
+  analyzer: SNAPSHOT-12
   metricsgatherer: SNAPSHOT-6
