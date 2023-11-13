@@ -3,7 +3,7 @@ docker:
   authorization: SNAPSHOT-38
   index: rc-5.10.0-6
   api: SNAPSHOT-432
-  jobs: local-file-storage-test
+  jobs: develop-2
   ui: SNAPSHOT-439
   analyzer: SNAPSHOT-11
   metricsgatherer: SNAPSHOT-6
