@@ -3,7 +3,7 @@ docker:
   authorization: SNAPSHOT-38
   index: rc-5.10.0-6
   api: SNAPSHOT-433
-  jobs: develop-2
+  jobs: single-bucket-file-storage
   jobsbill: local-file-test
   ui: SNAPSHOT-442
   analyzer: SNAPSHOT-12
