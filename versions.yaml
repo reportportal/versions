@@ -3,7 +3,7 @@ docker:
   authorization: SNAPSHOT-38
   index: rc-5.10.0-6
   api: SNAPSHOT-435
-  jobs: 5.10.0
+  jobs: EPMRPP-87272-delete-expired-users-no-attachments-37
   ui: SNAPSHOT-442
   analyzer: SNAPSHOT-12
   metricsgatherer: SNAPSHOT-6
