@@ -5,6 +5,6 @@ docker:
   api: SNAPSHOT-435
   jobs: single-bucket-file-storage
   jobsbill: local-file-test
-  ui: SNAPSHOT-442
+  ui: SNAPSHOT-443
   analyzer: SNAPSHOT-12
   metricsgatherer: SNAPSHOT-6
