@@ -1,8 +1,8 @@
 docker:
-  migrations: 5.10.0
+  migrations: SNAPSHOT-67
   authorization: 5.10.0
   index: 5.10.1
-  api: 5.10.0
+  api: SNAPSHOT-435
   jobs: 5.10.0
   ui: 5.10.0
   analyzer: 5.10.0
