@@ -2,7 +2,7 @@ docker:
   migrations: 5.10.0
   authorization: 5.10.0
   index: 5.10.1
-  api: 5.10.0
+  api: 5.10.1
   jobs: 5.10.0
   jobsbill: null
   ui: 5.10.0
