@@ -1,7 +1,7 @@
 docker:
   migrations: SNAPSHOT-67
   authorization: SNAPSHOT-38
-  index: rc-5.10.0-6
+  index: rc-5.11.0-2
   api: develop-30
   jobs: single-bucket-file-storage
   jobsbill: local-file-test
