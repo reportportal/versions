@@ -1,5 +1,5 @@
 docker:
-  migrations: 5.11.0-1
+  migrations: rc-5.11.0-1
   authorization: SNAPSHOT-38
   index: rc-5.10.0-6
   api: develop-27
