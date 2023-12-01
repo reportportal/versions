@@ -1,10 +1,10 @@
 docker:
-  migrations: SNAPSHOT-67
+  migrations: 5.10.0
   authorization: 5.10.0
   index: 5.10.1
-  api: SNAPSHOT-449
+  api: SNAPSHOT-423
   jobs: 5.10.0
   jobsbill: null
   ui: 5.10.0
-  analyzer: 5.10.0
+  analyzer: rc-5.10.1-4
   metricsgatherer: 5.10.0
