@@ -3,8 +3,8 @@ docker:
   authorization: 5.10.0
   index: 5.10.1
   api: 5.10.1
-  jobs: null
-  jobsbill: 5.11.0-1
+  jobs: 5.10.0
+  jobsbill: null
   ui: 5.10.0
   analyzer: rc-5.10.2-9
   metricsgatherer: 5.10.0
