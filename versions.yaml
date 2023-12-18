@@ -7,4 +7,4 @@ docker:
   jobsbill: null
   ui: rc-5.11.0-1
   analyzer: rc-5.11.0-12
-  metricsgatherer: rc-5.10.0
+  metricsgatherer: rc-5.11.0-1
