@@ -2,7 +2,7 @@ docker:
   migrations: SNAPSHOT-67
   authorization: SNAPSHOT-38
   index: rc-5.11.0-2
-  api: develop-43
+  api: EPMRPP-88915-66
   jobs: single-bucket-file-storage
   jobsbill: local-file-test
   ui: develop-60
