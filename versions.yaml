@@ -5,6 +5,6 @@ docker:
   api: EPMRPP-88977-69
   jobs: single-bucket-file-storage
   jobsbill: local-file-test
-  ui: develop-73
+  ui: develop-74
   analyzer: develop-38
   metricsgatherer: SNAPSHOT-6
