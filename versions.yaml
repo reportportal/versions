@@ -1,6 +1,6 @@
 docker:
   migrations: SNAPSHOT-67
-  authorization: develop-6
+  authorization: develop-7
   index: rc-5.11.0-2
   api: EPMRPP-88977-69
   jobs: single-bucket-file-storage
