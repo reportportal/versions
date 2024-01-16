@@ -1,10 +1,10 @@
 docker:
-  migrations: rc-5.11.0-3
+  migrations: SNAPSHOT-67
   authorization: develop-7
-  index: rc-5.11.0-3
-  api: rc-5.11.0-12
-  jobs: rc-5.11.0-1
+  index: rc-5.11.0-2
+  api: develop-49
+  jobs: single-bucket-file-storage
   jobsbill: null
-  ui: rc-5.11.0-10
-  analyzer: rc-5.11.0-14
-  metricsgatherer: rc-5.11.0-1
+  ui: develop-74
+  analyzer: develop-38
+  metricsgatherer: SNAPSHOT-6
