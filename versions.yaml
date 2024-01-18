@@ -1,10 +1,10 @@
 docker:
   migrations: 5.10.0
-  authorization: 5.11.1-epam
+  authorization: 5.10.0
   index: 5.10.1
   api: 5.10.1
   jobs: 5.10.0
   jobsbill: null
-  ui: hotfix-5.10.1-2
+  ui: hotfix-5.10.1-22
   analyzer: 5.10.0
   metricsgatherer: 5.10.0
