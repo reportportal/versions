@@ -1,6 +1,6 @@
 docker:
   migrations: rc-5.11.0-3
-  authorization: rc-5.11.0-1
+  authorization: develop-7
   index: rc-5.11.0-3
   api: rc-5.11.0-13
   jobs: rc-5.11.0-1
