@@ -2,7 +2,7 @@ docker:
   migrations: SNAPSHOT-67
   authorization: develop-7
   index: rc-5.11.0-2
-  api: develop-50
+  api: develop-51
   jobs: single-bucket-file-storage
   jobsbill: local-file-test
   ui: develop-77
