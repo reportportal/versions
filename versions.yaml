@@ -2,9 +2,9 @@ docker:
   migrations: rc-5.11.0-3
   authorization: rc-5.11.0-1
   index: rc-5.11.0-3
-  api: EPMRPP-89031-89
+  api: develop-52
   jobs: rc-5.11.0-1
   jobsbill: null
-  ui: rc-5.11.0-21
+  ui: develop-83
   analyzer: rc-5.11.0-14
   metricsgatherer: rc-5.11.0-1
