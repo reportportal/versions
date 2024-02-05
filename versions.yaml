@@ -1,5 +1,5 @@
 docker:
-  migrations: EPMRPP-87239-migration-8
+  migrations: develop-5
   authorization: develop-10
   index: rc-5.11.0-2
   api: develop-56
