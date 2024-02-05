@@ -2,7 +2,7 @@ docker:
   migrations: EPMRPP-87239-migration-8
   authorization: develop-10
   index: rc-5.11.0-2
-  api: develop-55
+  api: develop-56
   jobs: single-bucket-file-storage
   jobsbill: local-file-test
   ui: develop-86
