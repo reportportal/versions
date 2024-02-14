@@ -1,10 +1,10 @@
 docker:
-  migrations: SNAPSHOT-9
-  authorization: 5.7.0
-  index: SNAPSHOT-48
-  api: EPMRPP-435
-  jobs: SNAPSHOT-33
-  jobsbill: RC-81
-  ui: SNAPSHOT-197
-  analyzer: SNAPSHOT-1357
-  metricsgatherer: 1.1.19
+  migrations: develop-6
+  authorization: develop-10
+  index: rc-5.11.0-2
+  api: EPMRPP-88461-95
+  jobs: single-bucket-file-storage
+  jobsbill: local-file-test
+  ui: develop-87
+  analyzer: develop-38
+  metricsgatherer: rc-5.11.0-1
