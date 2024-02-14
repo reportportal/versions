@@ -1,7 +1,7 @@
 docker:
   migrations: develop-6
   authorization: develop-10
-  index: rc-5.11.0-2
+  index: rc-5.11.0-3
   api: EPMRPP-88461-95
   jobs: single-bucket-file-storage
   jobsbill: local-file-test
