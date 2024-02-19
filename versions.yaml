@@ -2,9 +2,9 @@ docker:
   migrations: develop-6
   authorization: rc-5.11.0-1
   index: rc-5.11.0-3
-  api: EPMRPP-89198-routing-refactor-99
+  api: develop-56
   jobs: rc-5.11.0-1
   jobsbill: null
-  ui: feature-EPMRPP-89414-routing-refactoring-120
+  ui: develop-87
   analyzer: rc-5.11.0-14
   metricsgatherer: rc-5.11.0-1
