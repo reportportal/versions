@@ -2,7 +2,7 @@ docker:
   migrations: develop-6
   authorization: develop-12
   index: rc-5.11.0-4
-  api: orgs-69
+  api: orgs-71
   jobs: rc-5.11.0-5
   jobsbill: null
   ui: feature-EPMRPP-89414-routing-refactoring-123
