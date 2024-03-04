@@ -3,7 +3,7 @@ docker:
   authorization: 5.11.0-rc-5-epam
   index: rc-5.11.0-4
   api: rc-5.11.0-21
-  jobs: null
+  jobs: rc-5.11.0-1
   jobsbill: 5.11.0-rc-1
   ui: rc-5.11.0-23
   analyzer: rc-5.11.0-14
