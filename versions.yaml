@@ -2,7 +2,7 @@ docker:
   migrations: develop-6
   authorization: develop-12
   index: rc-5.11.0-2
-  api: develop-73
+  api: EPMRPP-89377-cumulative-trend-widget-count-135
   jobs: single-bucket-file-storage
   jobsbill: local-file-test
   ui: develop-102
