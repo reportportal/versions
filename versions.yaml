@@ -2,7 +2,7 @@ docker:
   migrations: develop-6
   authorization: develop-12
   index: rc-5.11.0-4
-  api: develop-84
+  api: EPMRPP-88602-InstantTime-153
   jobs: single-bucket-file-storage
   jobsbill: local-file-test
   ui: develop-107
