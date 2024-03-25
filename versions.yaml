@@ -1,5 +1,5 @@
 docker:
-  migrations: EPMRPP-89878-migrate-roles-16
+  migrations: develop-8
   authorization: rc-5.11.0-1
   index: rc-5.11.0-4
   api: orgs-88
