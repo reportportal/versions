@@ -1,6 +1,6 @@
 docker:
   migrations: rc-5.11.0-4
-  authorization: 5.11.0-rc-5-epam
+  authorization: security-vulnerabilities
   index: rc-5.11.0-4
   api: rc-5.11.0-21
   jobs: rc-5.11.0-1
