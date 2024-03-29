@@ -2,7 +2,7 @@ docker:
   migrations: 5.11.0
   authorization: security-vulnerabilities
   index: 5.11.0
-  api: 5.11.0
+  api: fix-vulnerabilities
   jobs: 5.11.0
   jobsbill: null
   ui: 5.11.0
