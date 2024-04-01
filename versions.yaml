@@ -3,7 +3,7 @@ docker:
   authorization: fix-vulnerabilities-2
   index: 5.11.0
   api: fix-vulnerabilities
-  jobs: 5.11.0
+  jobs: hotfix-24.1.1-8
   jobsbill: 5.11.0
   ui: 5.11.0
   analyzer: 5.11.0
