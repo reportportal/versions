@@ -1,10 +1,10 @@
 docker:
-  migrations: develop-6
-  authorization: develop-12
+  migrations: 5.11.0
+  authorization: security-vulnerabilities
   index: rc-5.11.0-4
-  api: develop-84
-  jobs: single-bucket-file-storage
-  jobsbill: local-file-test
+  api: fix-vulnerabilities
+  jobs: hotfix-24.1.1-8
+  jobsbill: fix-vulnerabilities
   ui: develop-107
   analyzer: rc-5.11.0-14
   metricsgatherer: rc-5.11.0-2
