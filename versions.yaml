@@ -4,7 +4,7 @@ docker:
   index: 5.11.0
   api: fix-vulnerabilities
   jobs: hotfix-24.1.1-8
-  jobsbill: 5.11.0
+  jobsbill: fix-vulnerabilities
   ui: 5.11.0
   analyzer: 5.11.0
   metricsgatherer: 5.11.0
