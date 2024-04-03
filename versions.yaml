@@ -2,9 +2,9 @@ docker:
   migrations: 5.11.0
   authorization: fix-vulnerabilities-2
   index: 5.11.0
-  api: fix-vulnerabilities
+  api: EPMRPP-89932-162
   jobs: hotfix-24.1.1-8
-  jobsbill: fix-vulnerabilities
-  ui: 5.11.0
+  jobsbill: null
+  ui: hotfix-5.11.1-30
   analyzer: 5.11.0
   metricsgatherer: 5.11.0
