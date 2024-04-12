@@ -2,7 +2,7 @@ docker:
   migrations: develop-6
   authorization: develop-15
   index: rc-5.11.0-4
-  api: develop-84
+  api: develop-90
   jobs: single-bucket-file-storage
   jobsbill: local-file-test
   ui: develop-129
