@@ -2,9 +2,9 @@ docker:
   migrations: develop-8
   authorization: rc-5.11.0-1
   index: rc-5.11.0-4
-  api: orgs-94
+  api: orgs-88
   jobs: rc-5.11.0-5
   jobsbill: null
-  ui: feature-orgs-135
+  ui: feature-orgs-105
   analyzer: rc-5.11.0-14
   metricsgatherer: rc-5.11.0-2
