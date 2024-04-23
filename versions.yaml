@@ -1,6 +1,6 @@
 docker:
   migrations: develop-14
-  authorization: epam-auth-24
+  authorization: epam-auth-25
   index: rc-5.11.0-4
   api: EPMRPP-89659-notifications-184
   jobs: single-bucket-file-storage
