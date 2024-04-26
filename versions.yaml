@@ -2,7 +2,7 @@ docker:
   migrations: develop-14
   authorization: develop-15
   index: develop-11
-  api: EPMRPP-90118-190
+  api: EPMRPP-90118-192
   jobs: single-bucket-file-storage
   jobsbill: local-file-test
   ui: develop-138
