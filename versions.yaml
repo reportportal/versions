@@ -1,8 +1,8 @@
 docker:
   migrations: 5.11.0
-  authorization: 5.11.1
+  authorization: develop-15
   index: 5.11.0
-  api: 5.11.1
+  api: develop-99
   jobs: 5.11.1
   jobsbill: null
   ui: 5.11.1
