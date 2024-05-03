@@ -1,6 +1,6 @@
 docker:
   migrations: develop-14
-  authorization: epam-auth-21
+  authorization: epam-auth-22
   index: develop-11
   api: develop-107
   jobs: single-bucket-file-storage
