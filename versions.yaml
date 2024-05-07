@@ -1,8 +1,8 @@
 docker:
-  migrations: develop-8
-  authorization: rc-5.11.0-1
+  migrations: migration-orgs-20
+  authorization: EPMRPP-89966-roles-refactor-27
   index: rc-5.11.0-4
-  api: orgs-95
+  api: EPMRPP-90249-roles-refactor-217
   jobs: rc-5.11.0-5
   jobsbill: null
   ui: feature-orgs-148
