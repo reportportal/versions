@@ -1,5 +1,5 @@
 docker:
-  migrations: develop-14
+  migrations: develop-21
   authorization: develop-15
   index: develop-11
   api: develop-113
