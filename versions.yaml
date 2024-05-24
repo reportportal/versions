@@ -5,6 +5,6 @@ docker:
   api: develop-112
   jobs: EPMRPP-90918-jobs-should-skip-important-15
   jobsbill: rc-5.11.1-2
-  ui: hotfix-5.11.1-30
+  ui: develop-162
   analyzer: hotfix-5.11.0
   metricsgatherer: hotfix-5.11.0
