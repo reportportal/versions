@@ -5,6 +5,6 @@ docker:
   api: develop-127
   jobs: single-bucket-file-storage
   jobsbill: local-file-test
-  ui: develop-168
+  ui: develop-169
   analyzer: rc-5.11.0-14
   metricsgatherer: rc-5.11.0-2
