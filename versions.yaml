@@ -1,10 +1,10 @@
 docker:
-  migrations: develop-21
+  migrations: 5.11.0
   authorization: hotfix-5.11.1-11
   index: 5.11.0
-  api: develop-121
-  jobs: EPMRPP-90918-jobs-should-skip-important-15
+  api: hotfix-5.11.1-34
+  jobs: hotfix-5.11.1
   jobsbill: rc-5.11.1-2
-  ui: develop-162
+  ui: hotfix-5.11.1-30
   analyzer: hotfix-5.11.0
   metricsgatherer: hotfix-5.11.0
