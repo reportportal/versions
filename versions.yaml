@@ -1,10 +1,10 @@
 docker:
   migrations: develop-26
-  authorization: epam-auth-25
+  authorization: 5.11.1-epam
   index: develop-11
-  api: develop-130
+  api: develop-129
   jobs: single-bucket-file-storage
   jobsbill: local-file-test
-  ui: develop-175
+  ui: develop-177
   analyzer: rc-5.11.0-14
   metricsgatherer: rc-5.11.0-2
