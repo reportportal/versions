@@ -1,10 +1,10 @@
 docker:
-  migrations: 5.11.0
-  authorization: hotfix-5.11.1-11
-  index: 5.11.0
-  api: hotfix-5.11.1-34
-  jobs: hotfix-5.11.1
-  jobsbill: rc-5.11.1-2
-  ui: hotfix-5.11.1-30
-  analyzer: hotfix-5.11.0
+  migrations: develop-24
+  authorization: develop-15
+  index: develop-11
+  api: develop-121
+  jobs: single-bucket-file-storage
+  jobsbill: local-file-test
+  ui: develop-154
+  analyzer: rc-5.11.0-14
   metricsgatherer: hotfix-5.11.0
