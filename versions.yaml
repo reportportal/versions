@@ -4,7 +4,7 @@ docker:
   index: develop-11
   api: develop-121
   jobs: single-bucket-file-storage
-  jobsbill: local-file-test
+  jobsbill: important-launch
   ui: develop-154
   analyzer: rc-5.11.0-14
   metricsgatherer: hotfix-5.11.0
