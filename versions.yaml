@@ -3,7 +3,7 @@ docker:
   authorization: develop-15
   index: develop-11
   api: develop-131
-  jobs: single-bucket-file-storage
+  jobs: develop-13
   jobsbill: local-file-test
   ui: develop-177
   analyzer: rc-5.11.0-14
