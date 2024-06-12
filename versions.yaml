@@ -5,6 +5,6 @@ docker:
   api: develop-131
   jobs: develop-13
   jobsbill: local-file-test
-  ui: develop-190
+  ui: develop-191
   analyzer: rc-5.11.0-14
   metricsgatherer: 5.11.0-develop
