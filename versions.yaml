@@ -2,9 +2,9 @@ docker:
   migrations: develop-24
   authorization: develop-15
   index: develop-11
-  api: develop-121
+  api: orgs-135
   jobs: single-bucket-file-storage
   jobsbill: local-file-test
-  ui: develop-154
+  ui: feature-orgs-188
   analyzer: rc-5.11.0-14
   metricsgatherer: hotfix-5.11.0
