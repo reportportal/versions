@@ -5,6 +5,6 @@ docker:
   api: EPMRPP-91394-265
   jobs: rc-5.11.0-5
   jobsbill: null
-  ui: feature-orgs-201
+  ui: feature-orgs-204
   analyzer: rc-5.11.0-14
   metricsgatherer: rc-5.11.0-2
