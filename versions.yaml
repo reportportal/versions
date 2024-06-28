@@ -1,8 +1,8 @@
 docker:
   migrations: develop-26
-  authorization: develop-15
+  authorization: develop-26
   index: develop-11
-  api: develop-139
+  api: develop-140
   jobs: develop-13
   jobsbill: local-file-test
   ui: develop-207
