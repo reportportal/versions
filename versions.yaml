@@ -1,6 +1,6 @@
 docker:
   migrations: develop-32
-  authorization: develop-27
+  authorization: develop-28
   index: develop-13
   api: develop-146
   jobs: develop-16
