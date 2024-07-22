@@ -5,6 +5,6 @@ docker:
   api: develop-131
   jobs: single-bucket-file-storage
   jobsbill: important-launch-2
-  ui: develop-243
+  ui: develop-244
   analyzer: rc-5.11.0-14
   metricsgatherer: develop-6
