@@ -1,10 +1,10 @@
 docker:
   migrations: develop-32
-  authorization: EPMRPP-93009-45
+  authorization: develop-28
   index: develop-13
-  api: EPMRPP-93009-309
+  api: develop-150
   jobs: develop-16
   jobsbill: local-file-test
-  ui: develop-249
+  ui: develop-250
   analyzer: rc-5.11.0-14
   metricsgatherer: 5.11.0-develop
