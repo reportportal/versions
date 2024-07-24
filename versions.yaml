@@ -2,7 +2,7 @@ docker:
   migrations: EPMRPP-90460-project-table-32
   authorization: orgs-25
   index: rc-5.11.0-4
-  api: bad-query-310
+  api: EPMRPP-92614-admin-eq-manager-311
   jobs: rc-5.11.0-5
   jobsbill: null
   ui: feature-orgs-246
