@@ -1,10 +1,10 @@
 docker:
-  migrations: develop-26
-  authorization: 5.11.1
-  index: 5.11.0
-  api: 5.11.1
-  jobs: 5.11.1
+  migrations: develop-32
+  authorization: develop-29
+  index: develop-13
+  api: develop-154
+  jobs: develop-16
   jobsbill: local-file-test
-  ui: 5.11.1
+  ui: develop-254
   analyzer: hotfix-5.11.0-r2-16
   metricsgatherer: hotfix-5.11.0-r2-6
