@@ -1,8 +1,8 @@
 docker:
-  migrations: EPMRPP-90460-project-table-32
-  authorization: orgs-25
+  migrations: migration-orgs-37
+  authorization: orgs-31
   index: rc-5.11.0-4
-  api: EPMRPP-90223-upsa-external-317
+  api: EPMRPP-91771-org-search-333
   jobs: rc-5.11.0-5
   jobsbill: null
   ui: feature-orgs-264
