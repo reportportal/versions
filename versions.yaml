@@ -1,6 +1,6 @@
 docker:
   migrations: migration-orgs-37
-  authorization: develop-29
+  authorization: orgs-31
   index: develop-13
   api: orgs-170
   jobs: develop-16
