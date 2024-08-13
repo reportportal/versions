@@ -1,10 +1,10 @@
 docker:
-  migrations: develop-24
-  authorization: develop-15
-  index: develop-11
+  migrations: develop-36
+  authorization: develop-29
+  index: develop-13
   api: develop-172
   jobs: single-bucket-file-storage
   jobsbill: important-launch-3
   ui: develop-244
   analyzer: rc-5.11.0-14
-  metricsgatherer: develop-6
+  metricsgatherer: 5.11.0-develop
