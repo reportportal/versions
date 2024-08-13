@@ -3,7 +3,7 @@ docker:
   authorization: develop-29
   index: develop-13
   api: develop-172
-  jobs: single-bucket-file-storage
+  jobs: develop-16
   jobsbill: important-launch-3
   ui: develop-244
   analyzer: rc-5.11.0-14
