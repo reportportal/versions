@@ -1,6 +1,6 @@
 docker:
   migrations: develop-36
-  authorization: EPMRPP-87165-logger-54
+  authorization: EPMRPP-87165-logger-55
   index: develop-13
   api: develop-172
   jobs: develop-16
