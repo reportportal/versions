@@ -5,6 +5,6 @@ docker:
   api: develop-184
   jobs: develop-16
   jobsbill: local-file-test
-  ui: develop-299
+  ui: develop-300
   analyzer: develop-52
   metricsgatherer: develop-6
