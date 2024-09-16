@@ -2,7 +2,7 @@ docker:
   migrations: rc-5.12.1-9
   authorization: rc-5.12.0-40
   index: rc-5.12.0-11
-  api: rc-5.12.0-43
+  api: rc-5.12.0-44
   jobs: rc-5.12.0-12
   jobsbill:
   ui: rc-5.12.0-42
