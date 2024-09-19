@@ -4,7 +4,7 @@ docker:
   index: 5.11.0
   api: 5.11.0
   jobs: null
-  jobsbill: 5.11.0
+  jobsbill: 5.11.1
   ui: 5.11.0
   analyzer: 5.11.0
   metricsgatherer: 5.11.0
