@@ -3,7 +3,7 @@ docker:
   authorization: 5.11.3
   index: 5.11.2
   api: 5.11.3
-  jobs: 5.11.1
+  jobs: null
   jobsbill: 5.11.0
   ui: 5.11.1
   analyzer: 5.11.0
