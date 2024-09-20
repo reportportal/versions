@@ -1,10 +1,10 @@
 docker:
-  migrations: 5.11.0
-  authorization: epam-auth-27
-  index: 5.11.0
-  api: 5.11.0
+  migrations: 5.12.0
+  authorization: RC-5.12.0-epam
+  index: 5.12.0
+  api: 5.12.0
   jobs: null
-  jobsbill: 5.11.1
-  ui: 5.11.0
-  analyzer: 5.11.0
-  metricsgatherer: 5.11.0
+  jobsbill: rc-5.12.0
+  ui: 5.12.0
+  analyzer: 5.12.0
+  metricsgatherer: 5.12.0
