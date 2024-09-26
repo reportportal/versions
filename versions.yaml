@@ -3,7 +3,7 @@ docker:
   authorization: develop-44
   index: develop-21
   api: develop-199
-  jobs: EPMRPP-95322-attachment-job-30
+  jobs: develop-20
   jobsbill: local-file-test
   ui: develop-322
   analyzer: develop-71
