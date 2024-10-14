@@ -1,9 +1,9 @@
 docker:
   migrations: migration-orgs-41
   authorization: orgs-45
-  index: rc-5.11.0-4
+  index: 5.11.2
   api: orgs-208
-  jobs: rc-5.11.0-5
+  jobs: 5.11.1
   jobsbill: null
   ui: feature-orgs-345
   analyzer: 5.11.0
