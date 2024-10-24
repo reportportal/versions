@@ -5,6 +5,6 @@ docker:
   api: orgs-218
   jobs: 5.12.0
   jobsbill: null
-  ui: feature-orgs-364
+  ui: feature-orgs-363
   analyzer: 5.12.0
   metricsgatherer: 5.12.0
