@@ -1,10 +1,10 @@
 docker:
-  migrations: develop-36
-  authorization: develop-40
-  index: develop-13
-  api: develop-186
-  jobs: develop-16
-  jobsbill: local-file-test
-  ui: develop-307
-  analyzer: develop-58
-  metricsgatherer: develop-9
+  migrations: develop-44
+  authorization: develop-50
+  index: develop-21
+  api: develop-223
+  jobs: develop-20
+  jobsbill:
+  ui: develop-355
+  analyzer: snyk-fix-2e2b4653a863c150b388c0075e26530a-23
+  metricsgatherer: develop-16
