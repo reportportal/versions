@@ -2,7 +2,7 @@ docker:
   migrations: migration-orgs-41
   authorization: orgs-51
   index: 5.12.0
-  api: orgs-232
+  api: EPMRPP-96695-fix-permissions-445
   jobs: 5.12.0
   jobsbill: null
   ui: feature-orgs-392
