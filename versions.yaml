@@ -5,6 +5,6 @@ docker:
   api: EPMRPP-96695-fix-permissions-445
   jobs: 5.12.0
   jobsbill: null
-  ui: feature-orgs-393
+  ui: feature-orgs-394
   analyzer: 5.12.0
   metricsgatherer: 5.12.0
