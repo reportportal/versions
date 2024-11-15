@@ -1,5 +1,5 @@
 docker:
-  migrations: develop-43
+  migrations: develop-45
   authorization: EPMRPP-96070-saml-uuid-93
   index: develop-21
   api: develop-233
