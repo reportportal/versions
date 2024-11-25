@@ -1,6 +1,6 @@
 docker:
   migrations: develop-45
-  authorization: EPMRPP-96070-saml-uuid-93
+  authorization: develop-55
   index: develop-21
   api: develop-242
   jobs: develop-20
