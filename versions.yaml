@@ -6,5 +6,5 @@ docker:
   jobs: develop-20
   jobsbill: local-file-test
   ui: develop-414
-  analyzer: EPMRPP-96427_component_update_and_fixes-31
+  analyzer: develop-89
   metricsgatherer: develop-15
