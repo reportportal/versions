@@ -3,7 +3,7 @@ docker:
   authorization: develop-55
   index: develop-21
   api: EPMRPP-96317-fix-count-494
-  jobs: develop-23
+  jobs: EPMRPP-96317-extend-analyzer-statistics-39
   jobsbill: local-file-test
   ui: develop-414
   analyzer: develop-89
