@@ -1,10 +1,10 @@
 docker:
-  migrations: migration-orgs-41
-  authorization: EPMRPP-96226-99
+  migrations: migration-orgs-48
+  authorization: orgs-56
   index: 5.12.0
-  api: EPMRPP-96695-fix-permissions-445
+  api: orgs-260
   jobs: 5.12.0
   jobsbill: null
-  ui: feature-orgs-393
+  ui: feature-orgs-419
   analyzer: 5.12.0
   metricsgatherer: 5.12.0
