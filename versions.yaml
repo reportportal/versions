@@ -2,7 +2,7 @@ docker:
   migrations: migration-orgs-41
   authorization: orgs-56
   index: 5.12.0
-  api: EPMRPP-95844-get-invitation-by-id-532
+  api: EPMRPP-95844-get-invitation-by-id-533
   jobs: 5.12.0
   jobsbill: null
   ui: feature-orgs-432
