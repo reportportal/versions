@@ -2,9 +2,9 @@ docker:
   migrations: migration-orgs-48
   authorization: orgs-56
   index: 5.12.0
-  api: orgs-260
+  api: orgs-268
   jobs: 5.12.0
   jobsbill: null
-  ui: feature-orgs-419
+  ui: feature-orgs-432
   analyzer: 5.12.0
   metricsgatherer: 5.12.0
