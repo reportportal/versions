@@ -2,7 +2,7 @@ docker:
   migrations: rc-5.13.0-12
   authorization: rc-5.13.0-42
   index: rc-5.13.0-14
-  api: rc-5.13.0-53
+  api: EPMRPP-90461-551
   jobs: rc-5.13.0-15
   jobsbill: null
   ui: rc-5.12.1-48
