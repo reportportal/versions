@@ -1,6 +1,6 @@
 docker:
   migrations: develop-45
-  authorization: EPMRPP-97288-decouple-commons-112
+  authorization: EPMRPP-97288-decouple-commons-115
   index: develop-23
   api: develop-271
   jobs: develop-25
