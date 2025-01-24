@@ -1,10 +1,10 @@
 docker:
   migrations: rc-5.13.0-12
-  authorization: develop-60
+  authorization: 5.13.0-epam
   index: develop-23
   api: develop-278
   jobs: develop-25
-  jobsbill:
+  jobsbill: 5.13.0-rc
   ui: develop-433
   analyzer: snyk-fix-013c171964c1b55a8d498c430a052c9d-59
   metricsgatherer: develop-25
