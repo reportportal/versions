@@ -2,7 +2,7 @@ docker:
   migrations: rc-5.13.0-12
   authorization: 5.13.0-epam
   index: develop-23
-  api: revert-2132-EPMRPP-97692-missed-retry-574
+  api: develop-283
   jobs: develop-25
   jobsbill: 5.13.0-rc
   ui: develop-433
