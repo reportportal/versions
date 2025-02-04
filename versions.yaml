@@ -1,6 +1,6 @@
 docker:
   migrations: rc-5.13.0-12
-  authorization: 5.13.0-epam
+  authorization: EPMRPP-98528-epam
   index: develop-23
   api: feature-EPMRPP-99178-588
   jobs: develop-25
