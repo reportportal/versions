@@ -1,8 +1,8 @@
 docker:
-  migrations: rc-5.13.0-12
+  migrations: feature-group-assignment-47
   authorization: EPMRPP-98528-epam-2
   index: develop-23
-  api: feature-EPMRPP-99178-589
+  api: feature-group-assignment-600
   jobs: develop-25
   jobsbill: 5.13.0-rc
   ui: develop-463
