@@ -3,8 +3,8 @@ docker:
   authorization: develop-63
   index: develop-23
   api: develop-290
-  jobs: develop-25
-  jobsbill: local-file-test
+  jobs: null
+  jobsbill: 5.12.0-7
   ui: develop-474
   analyzer: develop-106
   metricsgatherer: develop-25
