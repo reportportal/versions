@@ -2,7 +2,7 @@ docker:
   migrations: develop-49
   authorization: develop-63
   index: develop-23
-  api: develop-290
+  api: EPMRPP-99219-fix-build-version-620
   jobs: develop-25
   jobsbill: local-file-test
   ui: develop-476
