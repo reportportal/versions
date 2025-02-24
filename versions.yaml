@@ -2,7 +2,7 @@ docker:
   migrations: rc-5.13.0-12
   authorization: EPMRPP-98528-epam-4
   index: develop-23
-  api: rc-5.13.3-66
+  api: rc-5.13.4-66
   jobs: develop-25
   jobsbill: 5.13.0-rc
   ui: rc-5.12.5-62
