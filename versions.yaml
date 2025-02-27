@@ -1,5 +1,5 @@
 docker:
-  migrations: 5.13.0
+  migrations: develop-51
   authorization: 5.13.1-epam
   index: 5.13.0
   api: develop-294
