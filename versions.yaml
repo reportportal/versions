@@ -2,9 +2,9 @@ docker:
   migrations: 5.13.0
   authorization: 5.13.1-epam
   index: 5.13.0
-  api: rc-5.13.4-66
+  api: develop-294
   jobs: 5.13.0
   jobsbill: rc-5.13.0
-  ui: rc-5.12.4-59
-  analyzer: rc-5.13.2-41
+  ui: develop-495
+  analyzer: 5.13.2
   metricsgatherer: 5.13.0
