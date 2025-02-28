@@ -1,6 +1,6 @@
 docker:
   migrations: rc-5.13.0-12
-  authorization: 5.13.0
+  authorization: 5.13.1-epam
   index: develop-23
   api: rc-5.13.5-65
   jobs: develop-25
