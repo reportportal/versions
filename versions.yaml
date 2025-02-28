@@ -4,7 +4,7 @@ docker:
   index: develop-23
   api: develop-296
   jobs: develop-25
-  jobsbill: local-file-test
+  jobsbill: null
   ui: develop-492
   analyzer: develop-106
   metricsgatherer: develop-25
