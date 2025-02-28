@@ -5,6 +5,6 @@ docker:
   api: 5.13.5
   jobs: develop-25
   jobsbill: 5.13.0-rc
-  ui: rc-5.12.5-64
+  ui: rc-5.12.5-66
   analyzer: snyk-fix-013c171964c1b55a8d498c430a052c9d-59
   metricsgatherer: develop-25
