@@ -1,8 +1,8 @@
 docker:
-  migrations: rc-5.13.1-14
+  migrations: rc-5.13.1-15
   authorization: 5.13.1-epam
   index: 5.13.0
-  api: rc-5.13.5-80
+  api: rc-5.13.5-84
   jobs: 5.13.0
   jobsbill: rc-5.13.0
   ui: rc-5.12.5-66
