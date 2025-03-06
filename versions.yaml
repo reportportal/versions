@@ -1,10 +1,10 @@
 docker:
-  migrations: rc-5.13.0-12
-  authorization: 5.13.0
-  index: develop-23
+  migrations: rc-5.13.1-15
+  authorization: 5.13.1
+  index: 5.13.0
   api: rc-5.13.5-90
-  jobs: develop-25
+  jobs: 5.13.0
   jobsbill: 5.13.0-rc
-  ui: rc-5.12.5-69
-  analyzer: snyk-fix-013c171964c1b55a8d498c430a052c9d-59
-  metricsgatherer: develop-25
+  ui: rc-5.12.5-70
+  analyzer: 5.13.2
+  metricsgatherer: 5.13.0
