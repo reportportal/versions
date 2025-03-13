@@ -1,6 +1,6 @@
 docker:
   migrations: develop-51
-  authorization: develop-68
+  authorization: EPMRPP-94581-146
   index: develop-25
   api: develop-297
   jobs: develop-28
