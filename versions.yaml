@@ -3,7 +3,7 @@ docker:
   authorization: 5.13.1
   index: 5.13.0
   api: 5.13.4
-  jobs: 5.13.2
+  jobs: 5.13.1
   ui: 5.12.4
   analyzer: 5.13.1
   metricsgatherer: 5.13.0
