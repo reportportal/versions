@@ -1,6 +1,6 @@
 docker:
   migrations: 5.13.0
-  authorization: EPMRPP-94581-provider-150
+  authorization: EPMRPP-94581-provider-151
   index: 5.13.0
   api: 5.13.4
   jobs: 5.13.1
