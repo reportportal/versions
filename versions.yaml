@@ -4,6 +4,6 @@ docker:
   index: 5.13.0
   api: 5.13.4
   jobs: 5.13.1
-  ui: 5.12.4
+  ui: rc-5.12.5-76
   analyzer: 5.13.1
   metricsgatherer: 5.13.0
