@@ -1,5 +1,5 @@
 docker:
-  migrations: rc-5.13.1-15
+  migrations: rc-5.13.1-16
   authorization: 5.13.1-epam
   index: 5.13.0
   api: rc-5.13.5-100
