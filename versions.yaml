@@ -2,9 +2,9 @@ docker:
   migrations: EPMRPP-94581-61
   authorization: EPMRPP-94581-provider-149
   index: develop-25
-  api: EPMRPP-100435-plroject-bulk-delete-683
+  api: develop-303
   jobs: develop-28
   jobsbill: null
-  ui: develop-526
+  ui: develop-527
   analyzer: develop-146
   metricsgatherer: develop-25
