@@ -1,5 +1,5 @@
 docker:
-  migrations: migration-orgs-52
+  migrations: feature-EPMRPP-migrate-tms-65
   authorization: orgs-56
   index: 5.12.0
   api: feature-EPMRPP-migrate-tms-685
