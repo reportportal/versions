@@ -5,6 +5,6 @@ docker:
   api: feature-EPMRPP-migrate-tms-685
   jobs: 5.12.0
   jobsbill: null
-  ui: service-ui:integrate-dataset-modal-1056
+  ui: integrate-dataset-modal-1056
   analyzer: 5.12.0
   metricsgatherer: 5.12.0
