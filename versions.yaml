@@ -1,10 +1,10 @@
 docker:
-  migrations: EPMRPP-94581-61
-  authorization: EPMRPP-94581-provider-149
+  migrations: develop-55
+  authorization: develop-69
   index: develop-25
   api: develop-306
   jobs: develop-28
   jobsbill: null
-  ui: develop-533
+  ui: develop-539
   analyzer: develop-146
   metricsgatherer: develop-25
