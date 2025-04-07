@@ -4,7 +4,7 @@ docker:
   index: 5.13.0
   api: rc-5.13.5-109
   jobs: rc-5.13.2-19
-  jobsbill: rc-5.13.0
+  jobsbill: rc-5.13.1-1
   ui: rc-5.12.5-92
   analyzer: 5.13.2
   metricsgatherer: 5.13.0
