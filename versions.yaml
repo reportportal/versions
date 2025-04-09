@@ -5,5 +5,5 @@ docker:
   api: 5.13.5
   jobs: 5.13.2
   ui: 5.12.5
-  analyzer: 5.13.1
+  analyzer: 5.13.2
   metricsgatherer: 5.13.0
