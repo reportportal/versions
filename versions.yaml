@@ -1,9 +1,9 @@
 docker:
-  migrations: EPMRPP-94581-66
-  authorization: EPMRPP-94581-provider-153
-  index: 5.13.0
-  api: 5.13.4
-  jobs: 5.13.1
-  ui: develop-518
+  migrations: 5.13.2
+  authorization: 5.13.2
+  index: 5.13.1
+  api: 5.13.5
+  jobs: 5.13.2
+  ui: 5.12.5
   analyzer: 5.13.1
   metricsgatherer: 5.13.0
