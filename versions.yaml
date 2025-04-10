@@ -7,3 +7,4 @@ docker:
   jobsbill: 5.13.0-rc
   ui: develop-541
   analyzer: develop-153
+  metricsgatherer: 5.13.0
