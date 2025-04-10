@@ -7,4 +7,3 @@ docker:
   jobsbill: null
   ui: develop-541
   analyzer: develop-153
-  metricsgatherer: develop-25
