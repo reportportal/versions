@@ -1,5 +1,5 @@
 docker:
-  migrations: develop-60
+  migrations: develop-62
   authorization: develop-71
   index: feature-add-tag-develop-latest-49
   api: develop-320
