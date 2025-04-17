@@ -1,6 +1,6 @@
 docker:
   migrations: 5.13.2
-  authorization: epam-uat-boot-test-2
+  authorization: epam-uat-boot-test-4
   index: 5.13.0
   api: rc-5.13.5-109
   jobs: rc-5.13.2-19
