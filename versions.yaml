@@ -5,6 +5,6 @@ docker:
   api: rc-5.13.5-109
   jobs: rc-5.13.2-19
   jobsbill: rc-5.13.1-1
-  ui: fix-EPMRPP-102041-added-unsafe-eval-1099
+  ui: develop-546
   analyzer: 5.13.2
   metricsgatherer: 5.13.0
