@@ -1,10 +1,10 @@
 docker:
   migrations: migration-orgs-57
-  authorization: feature-orgs-175
+  authorization: EPMRPP-102785-186
   index: 5.12.0
   api: orgs-335
   jobs: 5.12.0
   jobsbill: null
-  ui: feature-orgs-550
+  ui: feature-orgs-552
   analyzer: 5.12.0
   metricsgatherer: 5.12.0
