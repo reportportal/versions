@@ -1,6 +1,6 @@
 docker:
   migrations: migration-orgs-57
-  authorization: EPMRPP-102785-186
+  authorization: EPMRPP-102785-187
   index: 5.12.0
   api: orgs-341
   jobs: 5.12.0
