@@ -1,10 +1,10 @@
 docker:
-  migrations: develop-58
-  authorization: develop-74
+  migrations: rc-5.14.0-22
+  authorization: epam-uat-boot-test-7
   index: develop-28
-  api: develop-342
-  jobs: develop-29
+  api: rc-5.14.0-113
+  jobs: rc-5.14.0-22
   jobsbill: null
   ui: develop-564
-  analyzer: develop-153
+  analyzer: rc-5.14.0-44
   metricsgatherer: 5.13.0
