@@ -2,7 +2,7 @@ docker:
   migrations: rc-5.14.0-22
   authorization: epam-uat-boot-test-7
   index: rc-5.14.0-19
-  api: rc-5.14.0-113
+  api: rc-5.14.0-114
   jobs: rc-5.14.0-22
   jobsbill: null
   ui: rc-5.14.0-95
