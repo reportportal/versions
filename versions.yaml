@@ -1,6 +1,6 @@
 docker:
   migrations: migration-orgs-57
-  authorization: debug-auth-190
+  authorization: orgs-83
   index: 5.12.0
   api: orgs-350
   jobs: 5.12.0
