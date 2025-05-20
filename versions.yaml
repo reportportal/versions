@@ -1,9 +1,9 @@
 docker:
   migrations: 5.13.2
   authorization: 5.13.2-epam
-  index: 5.13.0
+  index: 5.13.1
   api: rc-5.13.5-109
-  jobs: rc-5.13.2-19
+  jobs: null
   jobsbill: rc-5.13.1-1
   ui: rc-5.12.5-92
   analyzer: 5.13.2
