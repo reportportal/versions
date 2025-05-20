@@ -7,3 +7,4 @@ docker:
   jobsbill: rc-5.13.1-1
   ui: rc-5.12.5-92
   analyzer: 5.13.2
+  metricsgatherer: 5.13.0
