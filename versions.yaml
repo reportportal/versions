@@ -1,6 +1,6 @@
 docker:
   migrations: rc-5.14.0-22
-  authorization: rc-5.14.0-52
+  authorization: rc-5.14.0-53
   index: rc-5.14.0-19
   api: rc-5.14.0-116
   jobs: rc-5.14.0-22
