@@ -1,5 +1,5 @@
 docker:
-  migrations: 5.14.0
+  migrations: develop-71
   authorization: 5.14.0
   index: 5.14.0
   api: develop-381
