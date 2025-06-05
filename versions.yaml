@@ -2,7 +2,7 @@ docker:
   migrations: hotfix-5.14.1-23
   authorization: 5.14.0
   index: 5.14.0
-  api: hotfix-5.14.1-117
+  api: hotfix-5.14.1-120
   jobs: 5.14.0
   jobsbill: null
   ui: develop-597
