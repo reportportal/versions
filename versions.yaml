@@ -5,6 +5,6 @@ docker:
   api: hotfix-5.14.1-120
   jobs: 5.14.0
   jobsbill: null
-  ui: develop-597
+  ui: hotfix-5.14.2-104
   analyzer: 5.14.1
   metricsgatherer: 5.13.0
