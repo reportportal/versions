@@ -1,5 +1,5 @@
 docker:
-  migrations: migration-orgs-57
+  migrations: migration-orgs-74
   authorization: orgs-83
   index: 5.14.0
   api: orgs-390
