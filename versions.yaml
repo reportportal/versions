@@ -5,6 +5,6 @@ docker:
   api: hotfix-5.14.1-123
   jobs: 5.14.0
   jobsbill: null
-  ui: feature-EPMRPP-103522-remote-plugins-project-level-extensions-1277
+  ui: hotfix-5.14.2-104
   analyzer: 5.14.1
   metricsgatherer: 5.13.0
