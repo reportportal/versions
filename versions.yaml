@@ -5,6 +5,6 @@ docker:
   api: hotfix-5.14.1-123
   jobs: 5.14.0
   jobsbill: null
-  ui: hotfix-5.14.2-105
+  ui: bugfix-EPMRPP-103711-fix-extension-plugins-scope-1282
   analyzer: 5.14.1
   metricsgatherer: 5.13.0
