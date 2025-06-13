@@ -1,10 +1,10 @@
 docker:
-  migrations: migration-orgs-74
-  authorization: orgs-83
-  index: 5.14.0
-  api: feature-orgs-873
-  jobs: 5.14.0
+  migrations: develop-76
+  authorization: EPMRPP-103957-199
+  index: develop-29
+  api: develop-395
+  jobs: develop-32
   jobsbill: null
-  ui: feature-orgs-610
-  analyzer: 5.14.1
+  ui: develop-616
+  analyzer: develop-201
   metricsgatherer: 5.13.0
