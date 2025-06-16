@@ -2,9 +2,9 @@ docker:
   migrations: hotfix-5.14.1-23
   authorization: 5.14.0
   index: 5.14.0
-  api: hotfix-5.14.1-125
+  api: hotfix-5.14.1-126
   jobs: 5.14.0
   jobsbill: null
-  ui: bugfix-EPMRPP-103711-fix-extension-plugins-scope-1282
+  ui: hotfix-5.14.2-107
   analyzer: 5.14.1
   metricsgatherer: 5.13.0
