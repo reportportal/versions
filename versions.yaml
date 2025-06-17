@@ -1,10 +1,10 @@
 docker:
-  migrations: rc-5.14.0-22
-  authorization: rc-5.14.0-53
-  index: rc-5.14.0-19
-  api: rc-5.14.0-116
-  jobs: rc-5.14.0-22
+  migrations: 5.14.0
+  authorization: 5.14.0
+  index: 5.14.0
+  api: 5.14.0
+  jobs: 5.14.0
   jobsbill: null
-  ui: hotfix-5.14.1-100
-  analyzer: rc-5.14.0-44
+  ui: 5.14.1
+  analyzer: 5.14.1
   metricsgatherer: 5.13.0
