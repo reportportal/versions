@@ -1,6 +1,6 @@
 docker:
   migrations: 5.14.0
-  authorization: hotfix-5.14.2-58
+  authorization: 5.14.0
   index: 5.14.0
   api: hotfix-5.14.1-129 
   jobs: 5.14.0
