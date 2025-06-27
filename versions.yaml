@@ -1,6 +1,6 @@
 docker:
   migrations: 5.14.0
-  authorization: 5.14.1
+  authorization: hotfix-5.14.2-find-saml-email-ignore-case-62
   index: 5.14.0
   api: 5.14.1
   jobs: 5.14.0
