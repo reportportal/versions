@@ -1,10 +1,10 @@
 docker:
   migrations: feature-EPMRPP-migrate-tms-to-develop-117
-  authorization: EPMRPP-103957-199
-  index: develop-29
+  authorization: orgs-56
+  index: 5.12.0
   api: feature-EPMRPP-migrate-tms-to-develop-947
-  jobs: develop-32
+  jobs: 5.12.0
   jobsbill: null
-  ui: develop-653
-  analyzer: develop-201
-  metricsgatherer: 5.13.0
+  ui: feature-create-test-case-modal-1360
+  analyzer: 5.12.0
+  metricsgatherer: 5.12.0
