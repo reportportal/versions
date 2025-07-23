@@ -1,6 +1,6 @@
 docker:
   migrations: develop-76
-  authorization: EPMRPP-103957-199
+  authorization: develop-94
   index: develop-29
   api: EPMRPP-105272-fix-file-naming-1006
   jobs: develop-32
