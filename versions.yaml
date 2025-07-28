@@ -1,10 +1,10 @@
 docker:
-  migrations: 5.14.0
-  authorization: 5.14.3
+  migrations: 
+  authorization: 
   index: 5.14.0
-  api: 5.14.1
+  api:
   jobs: 5.14.0
   jobsbill: 5.14.0
-  ui: 5.14.2
-  analyzer: 5.14.1
+  ui: hotfix-5.14.3-125
+  analyzer: 
   metricsgatherer: 5.13.0
