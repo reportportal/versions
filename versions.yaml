@@ -2,7 +2,7 @@ docker:
   migrations: feature-EPMRPP-migrate-tms-to-develop-117
   authorization: develop-94
   index: 5.12.0
-  api: feature-EPMRPP-migrate-tms-to-develop-1020
+  api: feature-EPMRPP-migrate-tms-to-develop-1024
   jobs: 5.12.0
   jobsbill: null
   ui: feature-test-library-674
