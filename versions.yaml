@@ -7,4 +7,3 @@ docker:
   jobsbill: 5.14.0
   ui: hotfix-5.14.3-125
   analyzer: processor-restart-refactoring-111
-  metricsgatherer: 5.13.0
