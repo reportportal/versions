@@ -5,6 +5,6 @@ docker:
   api: EPMRPP-106124-1031
   jobs: develop-32
   jobsbill: null
-  ui: develop-684
+  ui: develop-685
   analyzer: develop-201
   metricsgatherer: 5.13.0
