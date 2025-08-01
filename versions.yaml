@@ -2,7 +2,7 @@ docker:
   migrations: rc-5.14.1-26
   authorization: rc-5.14.4-76
   index: 5.14.0
-  api: rc-5.14.2-149
+  api: rc-5.14.2-150
   jobs: 5.14.0
   jobsbill: 5.14.0
   ui: hotfix-5.14.3-125
