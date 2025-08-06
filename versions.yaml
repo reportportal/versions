@@ -5,6 +5,6 @@ docker:
   api: feature-upcoming-25.1.7-1
   jobs: 5.14.0
   jobsbill: null
-  ui: hotfix-5.14.3-128
+  ui: hotfix-5.14.3-127
   analyzer: 5.14.1
   metricsgatherer: 5.13.0
