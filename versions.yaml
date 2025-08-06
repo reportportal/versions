@@ -1,8 +1,8 @@
 docker:
   migrations: feature-upcoming-25.1.7-2
-  authorization: hotfix-5.14.4-73
+  authorization: upcoming
   index: 5.14.0
-  api: feature-upcoming-25.1.7-1
+  api: upcoming
   jobs: 5.14.0
   jobsbill: null
   ui: hotfix-5.14.3-127
