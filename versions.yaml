@@ -1,5 +1,5 @@
 docker:
-  migrations: feature-upcoming-25.1.7-1
+  migrations: feature-upcoming-25.1.7-2
   authorization: hotfix-5.14.4-73
   index: 5.14.0
   api: feature-upcoming-25.1.7-1
