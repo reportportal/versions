@@ -6,5 +6,5 @@ docker:
   jobs: 5.14.0
   jobsbill: null
   ui: rc-5.14.4-133
-  analyzer: 5.14.3
+  analyzer: remove-sophisticated-similarity-114
   metricsgatherer: 5.13.0
