@@ -5,6 +5,6 @@ docker:
   api: EPMRPP-106359-4
   jobs: 5.14.0
   jobsbill: null
-  ui: feature-upcoming-1601
+  ui: feature-upcoming-1622
   analyzer: 5.14.3
   metricsgatherer: 5.13.0
