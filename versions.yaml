@@ -2,7 +2,7 @@ docker:
   migrations: develop-82
   authorization: develop-94
   index: develop-29
-  api: develop-443
+  api: EPMRPP-104337-fix-query-1087
   jobs: develop-32
   jobsbill: null
   ui: develop-723
