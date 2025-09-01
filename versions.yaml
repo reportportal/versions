@@ -1,6 +1,6 @@
 docker:
   migrations: 5.14.2
-  authorization: feature-upcoming-1
+  authorization: 5.14.5
   index: 5.14.0
   api: feature-upcoming-4
   jobs: 5.14.0
