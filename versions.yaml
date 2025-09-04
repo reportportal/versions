@@ -5,6 +5,6 @@ docker:
   api: develop-451
   jobs: develop-32
   jobsbill: null
-  ui: bugfix-EPMRPP-104089-owner-label-is-not-displayed-near-owner-at-launches-page-1694
+  ui: develop-745
   analyzer: develop-201
   metricsgatherer: 5.13.0
