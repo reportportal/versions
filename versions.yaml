@@ -2,7 +2,7 @@ docker:
   migrations: 5.14.2
   authorization: 5.14.2-epam-2
   index: 5.14.0
-  api: rc-5.14.4-cut-tmp-dir-162
+  api: rc-5.14.4-158
   jobs: 5.14.0
   jobsbill: null
   ui: rc-5.14.5-135
