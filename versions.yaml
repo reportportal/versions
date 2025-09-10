@@ -1,6 +1,6 @@
 docker:
   migrations: develop-82
-  authorization: develop-94
+  authorization: EPMRPP-107247-merge-commits-to-develop-210
   index: develop-30
   api: develop-456
   jobs: develop-33
