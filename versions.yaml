@@ -1,10 +1,10 @@
 docker:
-  migrations: develop-76
-  authorization: EPMRPP-103957-199
-  index: develop-29
-  api: EPMRPP-104233-fix-if-else-901
-  jobs: develop-32
+  migrations: develop-82
+  authorization: EPMRPP-107247-merge-commits-to-develop-213
+  index: develop-30
+  api: EPMRPP-97023-org-launch-1132
+  jobs: develop-33
   jobsbill: null
-  ui: develop-616
+  ui: develop-756
   analyzer: develop-201
   metricsgatherer: 5.13.0
