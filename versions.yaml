@@ -1,10 +1,10 @@
 docker:
   migrations: 5.14.2
-  authorization: feature-upcoming-1
+  authorization: 5.14.6
   index: 5.14.0
-  api: feature-upcoming-4
+  api: feature-upcoming
   jobs: 5.14.0
   jobsbill: null
-  ui: feature-upcoming-1688
-  analyzer: 5.14.4
+  ui: 5.14.5
+  analyzer: 5.14.5
   metricsgatherer: 5.13.0
