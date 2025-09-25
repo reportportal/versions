@@ -1,10 +1,10 @@
 docker:
-  migrations: 5.14.2
+  migrations: EPMRPP-108020-min-pass-setting
   authorization: rc-5.14.6-82
   index: 5.14.0
-  api: rc-5.14.4-158
+  api: feature-upcoming-8
   jobs: 5.14.0
   jobsbill: null
-  ui: rc-5.14.5-135
+  ui: feature-upcoming-1788
   analyzer: remove-sophisticated-similarity-150
   metricsgatherer: 5.13.0
