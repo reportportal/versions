@@ -2,7 +2,7 @@ docker:
   migrations: EPMRPP-108020-min-pass-setting
   authorization: 5.14.6
   index: 5.14.0
-  api: feature-upcoming-8
+  api: feature
   jobs: 5.14.0
   jobsbill: null
   ui: feature-upcoming-1797
