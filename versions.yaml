@@ -1,6 +1,6 @@
 docker:
   migrations: EPMRPP-108020-min-pass-setting
-  authorization: 5.14.6
+  authorization: feature-25-1-idor
   index: 5.14.0
   api: upcoming-EPMRPP-107995
   jobs: 5.14.0
