@@ -2,10 +2,10 @@ docker:
   migrations: EPMRPP-108013-logtype
   authorization: feature-25-1-idor
   index: 5.14.0
-  api: feature-upcoming-9
+  api: feature-upcoming-10
   jobs: 5.14.0
   jobsbill: null
-  ui: feature-upcoming-1812
+  ui: feature-upcoming-1820
   analyzer: 5.14.5
   metricsgatherer: 5.13.0
 
