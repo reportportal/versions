@@ -1,8 +1,8 @@
 docker:
-  migrations: EPMRPP-108020-min-pass-setting
+  migrations: EPMRPP-108013-logtype
   authorization: feature-25-1-idor
   index: 5.14.0
-  api: upcoming-EPMRPP-107995
+  api: feature-upcoming-9
   jobs: 5.14.0
   jobsbill: null
   ui: feature-upcoming-1812
