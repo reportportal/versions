@@ -2,7 +2,7 @@ docker:
   migrations: EPMRPP-108013-logtype
   authorization: feature-upcoming-2
   index: 5.14.0
-  api: upcoming-fix-logtypes-2
+  api: upcoming-logtype-fix-3
   jobs: 5.14.0
   jobsbill: null
   ui: feature-upcoming-1902
