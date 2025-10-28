@@ -6,5 +6,5 @@ docker:
   jobs: null
   jobsbill: develop-41
   ui: develop-794
-  analyzer: develop-341
+  analyzer: 5.14.6
   metricsgatherer: 5.13.0
