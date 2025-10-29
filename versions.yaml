@@ -2,9 +2,9 @@ docker:
   migrations: 5.14.2
   authorization: rc-5.14.6-82
   index: 5.14.0
-  api: feature-upcoming-8
+  api: 5.14.4
   jobs: 5.14.0
   jobsbill: null
-  ui: feature-upcoming-1788
-  analyzer: remove-sophisticated-similarity-150
+  ui: 5.14.5
+  analyzer: 5.14.5
   metricsgatherer: 5.13.0
