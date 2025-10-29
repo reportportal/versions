@@ -1,5 +1,5 @@
 docker:
-  migrations: EPMRPP-108020-min-pass-setting
+  migrations: 5.14.2
   authorization: rc-5.14.6-82
   index: 5.14.0
   api: feature-upcoming-8
