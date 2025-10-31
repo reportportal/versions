@@ -3,8 +3,8 @@ docker:
   authorization: 5.14.7-epam
   index: 5.14.0
   api: 5.14.4
-  jobs: rc-5.14.1-23
-  jobsbill: null
+  jobs: null
+  jobsbill: 5.14.1
   ui: hotfix-5.14.6-140
   analyzer: 5.14.6
   metricsgatherer: 5.13.0
