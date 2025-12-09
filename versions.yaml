@@ -1,10 +1,10 @@
 docker:
   migrations: 
-  authorization: 
-  index: 
-  api: 
-  jobs: 
+  authorization: rc-5.15.0-85
+  index: rc-5.15.0-21
+  api: rc-5.15.0-167
+  jobs: rc-5.15.0-25
   jobsbill: null
-  ui: 
-  analyzer: 
+  ui: rc-5.15.0-143
+  analyzer: rc-5.15.0-63
   metricsgatherer: 5.13.0
