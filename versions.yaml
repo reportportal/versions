@@ -2,9 +2,9 @@ docker:
   migrations: 5.14.2
   authorization: 5.14.7-epam
   index: 5.14.0
-  api: rc-5.14.4-158
+  api: 5.14.4-158
   jobs: null
   jobsbill: 5.14.0
-  ui: rc-5.14.5-135
+  ui: 5.14.5-135
   analyzer: remove-sophisticated-similarity-150
   metricsgatherer: 5.13.0
