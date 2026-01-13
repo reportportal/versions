@@ -1,6 +1,6 @@
 docker:
   migrations: 5.15.0
-  authorization: 5.15.0-epam
+  authorization: 5.14.8-epam
   index: 5.15.0
   api: 5.15.0
   jobs: null
