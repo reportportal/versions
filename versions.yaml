@@ -5,6 +5,6 @@ docker:
   api: EPMRPP-111028-fix-demo-bug
   jobs: feature-upcoming-1
   jobsbill: null
-  ui: feature-upcoming-2252
+  ui: feature-upcoming-2259
   analyzer: 5.15.0
   metricsgatherer: 5.13.0
