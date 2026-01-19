@@ -2,7 +2,7 @@ docker:
   migrations: feature-upcoming-4
   authorization: feature-upcoming-5
   index: 5.15.0
-  api: feature-upcoming-2026-01-14
+  api: EPMRPP-111143-fix-analysis-owner
   jobs: feature-upcoming-1
   jobsbill: null
   ui: feature-upcoming-2277
