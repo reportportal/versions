@@ -5,6 +5,6 @@ docker:
   api: EPMRPP-111143-fix-analysis-owner2
   jobs: feature-upcoming-1
   jobsbill: null
-  ui: feature-upcoming-2277
+  ui: feature-upcoming-2294
   analyzer: 5.15.0
   metricsgatherer: 5.13.0
