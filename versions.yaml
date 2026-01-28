@@ -5,6 +5,6 @@ docker:
   api: dashboard-lock-fix
   jobs: feature-upcoming-1
   jobsbill: null
-  ui: feature-upcoming-2302
+  ui: feature-upcoming-2336
   analyzer: 5.15.0
   metricsgatherer: 5.13.0
