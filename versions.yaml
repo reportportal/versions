@@ -5,6 +5,6 @@ docker:
   api: validate-locked-dash
   jobs: feature-upcoming-1
   jobsbill: null
-  ui: feature-upcoming-2345
+  ui: feature-upcoming-2347
   analyzer: 5.15.0
   metricsgatherer: 5.13.0
