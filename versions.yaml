@@ -2,9 +2,9 @@ docker:
   migrations: upcoming-2026-01-23-with-locks
   authorization: feature-upcoming-5
   index: 5.15.0
-  api: delete-locked-dashboard
+  api: validate-locked-dash
   jobs: feature-upcoming-1
   jobsbill: null
-  ui: feature-upcoming-2336
+  ui: feature-upcoming-2345
   analyzer: 5.15.0
   metricsgatherer: 5.13.0
