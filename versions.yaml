@@ -5,6 +5,6 @@ docker:
   api: EPMRPP-112107-vulnerabilities
   jobs: EPMRPP-112107-vulnerabilities
   jobsbill: null
-  ui: EPMRPP-112107-vulnerabilities
+  ui: EPMRPP-107910-Viewer-or-Editor-can-view-test-cases-within-a-folder-in-Test-Plans-2446
   analyzer: 5.15.1
   metricsgatherer: 5.13.0
