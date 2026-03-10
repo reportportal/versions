@@ -1,8 +1,8 @@
 docker:
-  migrations: rc-5.15.1-36
+  migrations: feature-EPMRPP-112328-29
   authorization: 5.15.0
   index: 5.15.0
-  api: rc-5.15.1-178
+  api: feature-EPMRPP-112328-29
   jobs: 5.15.0
   jobsbill: null
   ui: rc-5.15.2-151
