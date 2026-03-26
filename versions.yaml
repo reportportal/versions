@@ -2,9 +2,9 @@ docker:
   migrations: develop-93
   authorization: develop-104
   index: develop-33
-  api: develop-518
+  api: EPMRPP-112182-remove-saml
   jobs: develop-41
   jobsbill: develop-47
-  ui: develop-1029
+  ui: feature-EPMRPP-113741-update-the-routing-for-sso-plugins-logic-2942
   analyzer: develop-396
   metricsgatherer: 5.13.0
