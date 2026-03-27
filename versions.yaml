@@ -2,9 +2,9 @@ docker:
   migrations: develop-93
   authorization: develop-104
   index: develop-33
-  api: EPMRPP-112182-remove-saml
+  api: develop-518
   jobs: develop-41
   jobsbill: develop-47
-  ui: develop-1039
+  ui: develop-1032
   analyzer: develop-396
   metricsgatherer: 5.13.0
