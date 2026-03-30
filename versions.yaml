@@ -1,5 +1,5 @@
 docker:
-  migrations: 5.15.1
+  migrations: feature-upcoming
   authorization: 5.15.0
   index: 5.15.0
   api: feature-upcoming
