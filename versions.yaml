@@ -2,7 +2,7 @@ docker:
   migrations: 5.15.1
   authorization: 5.15.0
   index: 5.15.0
-  api: rc-5.15.1-178
+  api: feature-upcoming-flaky
   jobs: 5.15.0
   jobsbill: null
   ui: rc-5.15.2-151
