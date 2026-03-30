@@ -1,5 +1,5 @@
 docker:
-  migrations: develop-93
+  migrations: develop-94
   authorization: develop-104
   index: develop-33
   api: EPMRPP-112182-remove-saml
