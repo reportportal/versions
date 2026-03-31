@@ -5,6 +5,6 @@ docker:
   api: feature-EMPRPP-history-of-actions-to-migrate-tms-to-develop-1770
   jobs: 5.12.0
   jobsbill: null
-  ui: develop-1032
+  ui: develop-1051
   analyzer: 5.12.0
   metricsgatherer: 5.12.0
