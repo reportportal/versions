@@ -2,7 +2,7 @@ docker:
   migrations: develop-94
   authorization: develop-104
   index: develop-34
-  api: develop-521
+  api: EPMRPP-112183-remove-github
   jobs: develop-41
   jobsbill: develop-47
   ui: develop-1074
