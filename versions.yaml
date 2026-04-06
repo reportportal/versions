@@ -5,6 +5,6 @@ docker:
   api: EPMRPP-112183-remove-github-1792
   jobs: develop-41
   jobsbill: develop-47
-  ui: develop-1083
+  ui: develop-1084
   analyzer: develop-396
   metricsgatherer: 5.13.0
