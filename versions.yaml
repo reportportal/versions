@@ -2,9 +2,9 @@ docker:
   migrations: develop-94
   authorization: develop-104
   index: develop-34
-  api: develop-524
+  api: develop-525
   jobs: develop-41
   jobsbill: develop-47
-  ui: develop-1086
+  ui: develop-1087
   analyzer: develop-396
   metricsgatherer: 5.13.0
