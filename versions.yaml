@@ -5,6 +5,6 @@ docker:
   api: feature-EPMRPP-migrate-tms-to-develop-1816
   jobs: 5.12.0
   jobsbill: null
-  ui: develop-1094
+  ui: develop-1099
   analyzer: 5.12.0
   metricsgatherer: 5.12.0
