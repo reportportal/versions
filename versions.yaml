@@ -1,6 +1,6 @@
 docker:
   migrations: gcp-sec-fix-2
-  authorization: gcp-sec-fix
+  authorization: gcp-sec-fix-2
   index: gcp-sec-fix-72
   api: gcp-sec-fix
   jobs: gcp-sec-fix-2
