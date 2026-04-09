@@ -1,9 +1,9 @@
 docker:
-  migrations: gcp-sec-fix
+  migrations: gcp-sec-fix-2
   authorization: gcp-sec-fix
   index: gcp-sec-fix-72
   api: gcp-sec-fix
-  jobs: gcp-sec-fix
+  jobs: gcp-sec-fix-2
   jobsbill: null
   ui: feature-fix-gcp-vulnerabilities-3179
   analyzer: refs-heads-feature-fix-gcp-vulnerabilities-193
