@@ -1,10 +1,10 @@
 docker:
-  migrations: feature-upcoming
-  authorization: 5.15.0
-  index: 5.15.0
-  api: feature-upcoming-0330
-  jobs: 5.15.0
+  migrations: gcp-sec-fix
+  authorization: gcp-sec-fix
+  index: gcp-sec-fix
+  api: gcp-sec-fix
+  jobs: gcp-sec-fix
   jobsbill: null
-  ui: feature-upcoming-3166
-  analyzer: 5.15.1
-  metricsgatherer: 5.13.0
+  ui: feature-fix-gcp-vulnerabilities-3179
+  analyzer: gcp-sec-fix
+  metricsgatherer: gcp-sec-fix
