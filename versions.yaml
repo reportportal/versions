@@ -2,7 +2,7 @@ docker:
   migrations: develop-94
   authorization: develop-104
   index: develop-34
-  api: EPMRPP-114304-fix-unassign-event-1834
+  api: develop-527
   jobs: develop-41
   jobsbill: develop-47
   ui: develop-1110
