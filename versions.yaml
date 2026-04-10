@@ -5,6 +5,6 @@ docker:
   api: develop-527
   jobs: develop-41
   jobsbill: develop-47
-  ui: feature-EPMRPP-89789-delayed-initialDispatch-3181
+  ui: feature-EPMRPP-89789-3185
   analyzer: develop-396
   metricsgatherer: 5.13.0
