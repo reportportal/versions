@@ -3,7 +3,7 @@ docker:
   authorization: 5.15.0-r4
   index: gcp-sec-fix-72
   api: 5.15.1-r2
-  jobs: gcp-sec-fix-2
+  jobs: 15.0.5-r3
   jobsbill: null
   ui: feature-fix-gcp-vulnerabilities-3179
   analyzer: refs-heads-feature-fix-gcp-vulnerabilities-193
