@@ -6,5 +6,5 @@ docker:
   jobs: 15.0.5-r3
   jobsbill: null
   ui: feature-fix-gcp-vulnerabilities-3179
-  analyzer: refs-heads-feature-fix-gcp-vulnerabilities-193
+  analyzer: refs-heads-feature-fix-gcp-vulnerabilities-195
   metricsgatherer: gcp-sec-fix
