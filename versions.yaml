@@ -1,5 +1,5 @@
 docker:
-  migrations: gcp-sec-fix-2
+  migrations: 5.15.1-r2
   authorization: 5.15.0-r4
   index: gcp-sec-fix-72
   api: 5.15.1-r2
