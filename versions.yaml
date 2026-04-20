@@ -1,10 +1,10 @@
 docker:
-  migrations: feature-track-launches
+  migrations: feature-upcoming-latest
   authorization: 5.15.0
   index: 5.15.0
-  api: feature-EPMRPP-113576-track-launch-upd-4
+  api: feature-upcoming-latest
   jobs: 5.15.0
   jobsbill: null
-  ui: rc-5.15.2-151
+  ui: feature-upcoming-3010
   analyzer: 5.15.1
   metricsgatherer: 5.13.0
