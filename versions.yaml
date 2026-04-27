@@ -5,6 +5,6 @@ docker:
   api: feature-upcoming-agentic
   jobs: 5.15.0
   jobsbill: null
-  ui: feature-upcoming-3357
+  ui: feature-upcoming-3369
   analyzer: 5.15.1
   metricsgatherer: 5.13.0
