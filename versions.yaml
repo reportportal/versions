@@ -2,7 +2,7 @@ docker:
   migrations: feature-upcoming-agentic
   authorization: 5.15.0
   index: 5.15.0
-  api: feature-upcoming-agentic
+  api: feature-upcoming
   jobs: 5.15.0
   jobsbill: null
   ui: feature-upcoming-3425
