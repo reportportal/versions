@@ -1,10 +1,10 @@
 docker:
-  migrations: develop-88
-  authorization: develop-99
-  index: snyk-fix-b22bce0398940352c7824b7ab1d6864b-57
-  api: develop-475
-  jobs: null
-  jobsbill: develop-41
-  ui: develop-794
-  analyzer: 5.14.6
+  migrations: develop-100
+  authorization: develop-104
+  index: develop-34
+  api: develop-554
+  jobs: develop-42.1
+  jobsbill: develop-47
+  ui: develop-1203
+  analyzer: develop-430
   metricsgatherer: 5.13.0
