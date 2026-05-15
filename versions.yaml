@@ -1,10 +1,10 @@
 docker:
   migrations: feature-upcoming-agentic
-  authorization: 5.15.0
+  authorization: auth-seaweedsfs
   index: 5.15.0
   api: seaweed-fix-3
   jobs: 5.15.0
   jobsbill: null
   ui: feature-upcoming-3482
   analyzer: 5.15.1
-  metricsgatherer: 5.13.0
+  metricsgatherer: 5.13.0v
