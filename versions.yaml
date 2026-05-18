@@ -1,6 +1,6 @@
 docker:
   migrations: feature-EMPRPP-migrate-tms-to-develop-256
-  authorization: develop-94
+  authorization: develop-104
   index: 5.12.0
   api: feature-EMPRPP-migrate-tms-to-develop-1945
   jobs: 5.12.0
