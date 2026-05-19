@@ -1,8 +1,8 @@
 docker:
-  migrations: develop-100
+  migrations: feature-mobitru-1
   authorization: develop-104
   index: ci-trigger-feature-build-75
-  api: develop-554
+  api: feature-mobitru-1
   jobs: develop-42.1
   jobsbill: develop-47
   ui: develop-1230
