@@ -5,6 +5,6 @@ docker:
   api: feature-mobitru-1
   jobs: develop-42.1
   jobsbill: develop-47
-  ui: develop-1230
+  ui: develop-1235
   analyzer: develop-430
   metricsgatherer: 5.13.0
