@@ -1,10 +1,10 @@
 docker:
   migrations: rc-5.15.2-41
-  authorization: 5.15.0
+  authorization: 5.15.1-epam
   index: 5.15.0
   api: rc-5.15.2-183
-  jobs: rc-5.15.1-30
-  jobsbill: null
+  jobs: null
+  jobsbill: rc-5-15-1-61
   ui: rc-5.15.3-156
   analyzer: rc-5.15.2-95
   metricsgatherer: 5.13.0
