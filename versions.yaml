@@ -2,7 +2,7 @@ docker:
   migrations: feature-upcoming-agentic
   authorization: auth-with-seaweeds
   index: 5.15.0
-  api: seaweed-fix-4
+  api: feature-upcoming-2026-06-01
   jobs: jobs-with-seaweeds
   jobsbill: null
   ui: feature-upcoming-3623
