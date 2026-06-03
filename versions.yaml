@@ -1,5 +1,5 @@
 docker:
-  migrations: feature-upcoming-agentic
+  migrations: 5.15.2
   authorization: 5.15.0
   index: 5.15.0
   api: feature-upcoming-owner
