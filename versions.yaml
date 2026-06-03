@@ -2,9 +2,9 @@ docker:
   migrations: 5.15.2
   authorization: 5.15.0
   index: 5.15.0
-  api: feature-upcoming-owner
-  jobs: 5.15.0
+  api: feature-upcoming-2026-06-01
+  jobs: 5.15.1
   jobsbill: null
   ui: feature-upcoming-3623
-  analyzer: 5.15.1
+  analyzer: 5.15.2
   metricsgatherer: 5.13.0
