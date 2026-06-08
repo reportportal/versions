@@ -5,6 +5,6 @@ docker:
   api: feature-upcoming-0608
   jobs: feature-upcoming-0608
   jobsbill: null
-  ui: feature-upcoming-3623
+  ui: feature-upcoming-3645
   analyzer: 5.15.2
   metricsgatherer: 5.13.0
