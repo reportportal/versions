@@ -2,7 +2,7 @@ docker:
   migrations: feature-mobitru-1
   authorization: develop-104
   index: ci-trigger-feature-build-75
-  api: EPMRPP-115034-refactor-2021
+  api: develop-575
   jobs: develop-42.1
   jobsbill: develop-47
   ui: develop-1290
