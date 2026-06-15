@@ -1,5 +1,5 @@
 docker:
-  migrations: feature-mobitru-1
+  migrations: develop-104
   authorization: develop-104
   index: ci-trigger-feature-build-75
   api: EPMRPP-116712-2040
