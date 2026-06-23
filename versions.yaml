@@ -2,9 +2,9 @@ docker:
   migrations: 5.15.2
   authorization: EPMRPP-116695
   index: 5.15.0
-  api: feature-upcoming-stats-fix
+  api: feature-upcoming-0622
   jobs: feature-upcoming-0608
   jobsbill: null
-  ui: feature-upcoming-3680
+  ui: feature-upcoming-3707
   analyzer: 5.15.2
   metricsgatherer: 5.13.0
