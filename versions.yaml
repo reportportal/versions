@@ -2,9 +2,9 @@ docker:
   migrations: develop-106
   authorization: develop-104
   index: ci-trigger-feature-build-75
-  api: develop-589
+  api: develop-590
   jobs: develop-42.1
   jobsbill: develop-47
-  ui: develop-1323
+  ui: develop-1324
   analyzer: rc-5.15.2-95
   metricsgatherer: 5.13.0
