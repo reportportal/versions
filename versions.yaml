@@ -1,8 +1,8 @@
 docker:
-  migrations: 5.15.2
+  migrations: EPMRPP-114710-upcoming
   authorization: EPMRPP-116695
-  index: 5.15.0
-  api: feature-upcoming-2726
+  index: develop-37
+  api: feature-upcoming-analyzer-1
   jobs: feature-upcoming-0608
   jobsbill: null
   ui: feature-upcoming-3738
