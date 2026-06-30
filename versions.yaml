@@ -5,6 +5,6 @@ docker:
   api: feature-upcoming-2026-06-01
   jobs: jobs-with-seaweeds
   jobsbill: null
-  ui: feature-upcoming-3645
+  ui: feature-upcoming-3738
   analyzer: 5.15.1
   metricsgatherer: 5.13.0v
