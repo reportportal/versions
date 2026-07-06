@@ -2,9 +2,9 @@ docker:
   migrations: develop-107
   authorization: develop-104
   index: ci-trigger-feature-build-75
-  api: develop-596
+  api: dev-EPMRPP-115979-2097
   jobs: develop-43
   jobsbill: develop-47
-  ui: develop-1349
+  ui: develop-1350
   analyzer: rc-5.15.2-95
   metricsgatherer: 5.13.0
