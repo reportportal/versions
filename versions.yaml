@@ -3,7 +3,7 @@ docker:
   authorization: auth-with-seaweeds
   index: 5.15.0
   api: feature-upcoming-2026-06-01
-  jobs: jobs-with-seaweeds
+  jobs: feature-upcoming-0608
   jobsbill: null
   ui: feature-upcoming-3774
   analyzer: 5.15.1
