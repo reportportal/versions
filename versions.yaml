@@ -5,6 +5,6 @@ docker:
   api: feature-upcoming-latest
   jobs: feature-upcoming-0608
   jobsbill: null
-  ui: feature-upcoming-3777
+  ui: feature-upcoming-3787
   analyzer: rc-EPMRPP-114944-EPMRPP-116916-DHI-and-queue-processing-update-127
   metricsgatherer: 5.13.0
