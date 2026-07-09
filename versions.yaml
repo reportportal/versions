@@ -1,5 +1,5 @@
 docker:
-  migrations: develop-107
+  migrations: develop-108
   authorization: develop-104
   index: ci-trigger-feature-build-75
   api: develop-599
