@@ -1,10 +1,10 @@
 docker:
-  migrations: feature-mobitru-1
+  migrations: develop-108
   authorization: develop-104
   index: ci-trigger-feature-build-75
-  api: develop-579
-  jobs: develop-42.1
+  api: virt-threads
+  jobs: develop-43
   jobsbill: develop-47
-  ui: develop-1295
+  ui: develop-1363
   analyzer: rc-5.15.2-95
   metricsgatherer: 5.13.0
