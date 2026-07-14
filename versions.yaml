@@ -5,6 +5,6 @@ docker:
   api: EPMRPP-111876-aws-s3-fix-2110
   jobs: develop-43
   jobsbill: develop-47
-  ui: develop-1363
+  ui: develop-1364
   analyzer: rc-5.15.2-95
   metricsgatherer: 5.13.0
