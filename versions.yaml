@@ -1,8 +1,8 @@
 docker:
-  migrations: EPMRPP-114710-upcoming
+  migrations: palo-alto-fix
   authorization: EPMRPP-116695
   index: develop-37
-  api: feature-upcoming-latest
+  api: palo-alto-fix
   jobs: feature-upcoming-0608
   jobsbill: null
   ui: feature-upcoming-3787
