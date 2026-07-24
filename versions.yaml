@@ -1,5 +1,5 @@
 docker:
-  migrations: palo-alto
+  migrations: palo-alto-fix
   authorization: EPMRPP-116695
   index: develop-37
   api: palo-alto-2
