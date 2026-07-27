@@ -2,9 +2,9 @@ docker:
   migrations: feature-EMPRPP-migrate-tms-to-develop-256
   authorization: develop-104
   index: develop-37
-  api: feature-EPMRPP-tms-to-develop-2148
+  api: EPMRPP-117719-fix-2151
   jobs: develop-44
   jobsbill: develop-47
-  ui: develop-1407
-  analyzer: rc-5.15.2-95
+  ui: develop-1409
+  analyzer: rc-5.15.5-146
   metricsgatherer: 5.13.0
