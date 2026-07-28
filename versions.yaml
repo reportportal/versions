@@ -2,7 +2,7 @@ docker:
   migrations: develop-108
   authorization: develop-104
   index: ci-trigger-feature-build-75
-  api: virt-threads-fixed-s3
+  api: develop-610
   jobs: develop-43
   jobsbill: develop-47
   ui: develop-1363
