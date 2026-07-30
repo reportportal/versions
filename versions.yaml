@@ -5,6 +5,6 @@ docker:
   api: temp-perf-fix-2159
   jobs: develop-44
   jobsbill: develop-47
-  ui: develop-1422
+  ui: develop-1423
   analyzer: rc-5.15.5-146
   metricsgatherer: 5.13.0
