@@ -2,9 +2,9 @@ docker:
   migrations: develop-108
   authorization: develop-104
   index: develop-37
-  api: develop-605
+  api: temp-perf-fix-2159
   jobs: develop-44
   jobsbill: develop-47
-  ui: develop-1368
-  analyzer: rc-5.15.5-149
+  ui: develop-1422
+  analyzer: rc-5.15.5-146
   metricsgatherer: 5.13.0
