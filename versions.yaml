@@ -2,10 +2,10 @@ docker:
   migrations: rc-5.15.3-43
   authorization: rc-5.15.1-89
   index: rc-5.15.1-24
-  api: rc-5.15.3-187
+  api: EPMRPP-118181-fix-suggest-3
   jobs: rc-5.15.2-33
   jobsbill: null
   ui: rc-5.15.4-158
-  analyzer: rc-5.15.5-145
+  analyzer: rc-5.15.5-153
   metricsgatherer: 5.13.0
   
