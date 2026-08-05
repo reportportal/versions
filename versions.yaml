@@ -1,10 +1,10 @@
 docker:
   migrations: 5.15.3
-  authorization: EPMRPP-116695
-  index: develop-37
+  authorization: 5.15.1
+  index: 5.15.1
   api: 5.15.3
-  jobs: feature-upcoming-0608
+  jobs: 5.15.2
   jobsbill: null
-  ui: feature-upcoming-3924
-  analyzer: rc-EPMRPP-114944-EPMRPP-116916-DHI-and-queue-processing-update-127
+  ui: 5.15.4
+  analyzer: 5.15.5
   metricsgatherer: 5.13.0
