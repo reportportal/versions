@@ -2,9 +2,9 @@ docker:
   migrations: 5.15.3
   authorization: 5.15.1
   index: 5.15.1
-  api: 5.15.3
+  api: 
   jobs: 5.15.2
   jobsbill: null
-  ui: 5.15.4
+  ui: 
   analyzer: 5.15.5
   metricsgatherer: 5.13.0
