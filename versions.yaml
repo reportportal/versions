@@ -1,5 +1,5 @@
 docker:
-  migrations: 5.15.4
+  migrations: EPMRPP-120569
   authorization: feature
   index: 5.15.1
   api: 5.15.4
