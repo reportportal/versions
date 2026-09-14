@@ -1,5 +1,5 @@
 docker:
-  migrations: develop-114
+  migrations: EPMRPP-121444-102
   authorization: develop-104
   index: develop-37
   api: EPMRPP-121353-update-event-2546
