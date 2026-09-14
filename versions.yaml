@@ -2,7 +2,7 @@ docker:
   migrations: EPMRPP-120569
   authorization: feature
   index: 5.15.1
-  api: 5.15.4
+  api: EPMRPP-118978-security-issues
   jobs: feature
   jobsbill: 5.15.2
   ui: 5.15.5
