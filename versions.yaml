@@ -5,6 +5,6 @@ docker:
   api: EPMRPP-118978-security-issues
   jobs: feature
   jobsbill: 5.15.2
-  ui: feature-upcoming-4069
+  ui: feature-upcoming-4070
   analyzer: 5.15.5
   metricsgatherer: 5.13.0
