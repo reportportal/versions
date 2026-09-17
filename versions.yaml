@@ -1,10 +1,10 @@
 docker:
-  migrations: develop-114
+  migrations: develop-118
   authorization: develop-104
   index: develop-37
-  api: EPMRPP-99227-jooq-optimized-2581
+  api: develop-664
   jobs: develop-47
   jobsbill: develop-82
-  ui: develop-1507
-  analyzer: 5.15.5
+  ui: develop-1512
+  analyzer: develop-448
   metricsgatherer: 5.13.0
