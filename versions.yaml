@@ -1,6 +1,6 @@
 docker:
   migrations: EPMRPP-120569
-  authorization: 5.15.2-r5-epam
+  authorization: 5.15.1-r5-epam
   index: develop-39
   api: EPMRPP-118978-security-issues
   jobs: feature
