@@ -1,8 +1,8 @@
 docker:
-  migrations: feature-EMPRPP-migrate-tms-to-develop-256
+  migrations: migrations:develop-120
   authorization: develop-104
   index: develop-37
-  api: feature-tms-sync-job-entity-2491
+  api: service-api:develop-671
   jobs: develop-44
   jobsbill: develop-47
   ui: develop-1409
