@@ -2,7 +2,7 @@ docker:
   migrations: EPMRPP-120569
   authorization: feature
   index: develop-39
-  api: feature-upcoming-import
+  api: upcoming-2026-09-18-SNAPSHOT-1
   jobs: feature
   jobsbill: 5.15.2
   ui: feature-upcoming-4079
