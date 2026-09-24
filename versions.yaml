@@ -1,6 +1,6 @@
 docker:
   migrations: EPMRPP-120569
-  authorization: 5.15.1-r5
+  authorization: feature
   index: develop-39
   api: feature-upcoming-import
   jobs: feature
