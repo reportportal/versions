@@ -2,7 +2,7 @@ docker:
   migrations: EPMRPP-120569
   authorization: 5.15.1-r5
   index: develop-39
-  api: feature-upcoming-jasper-7
+  api: feature-upcoming-import
   jobs: feature
   jobsbill: 5.15.2
   ui: feature-upcoming-4123
