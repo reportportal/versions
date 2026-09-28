@@ -2,7 +2,7 @@ docker:
   migrations: 5.15.4
   authorization: 5.15.1
   index: 5.15.1
-  api: 5.15.4
+  api: feature-upcoming-interrupted
   jobs: 5.15.2
   jobsbill: 5.15.2
   ui: 5.15.5
