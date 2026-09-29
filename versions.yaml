@@ -3,7 +3,7 @@ docker:
   authorization: feature
   index: develop-39
   api: feature-upcoming-2736
-  jobs: feature
+  jobs: EPMRPP-121745
   jobsbill: 5.15.2
   ui: feature-upcoming-4129
   analyzer: 5.15.5
