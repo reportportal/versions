@@ -6,5 +6,5 @@ docker:
   jobs: 5.15.2
   jobsbill: 5.15.2
   ui: 5.15.5
-  analyzer: 5.15.5
+  analyzer: rc-5.15.6-163
   metricsgatherer: 5.13.0
