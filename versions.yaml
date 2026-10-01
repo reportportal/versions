@@ -5,6 +5,6 @@ docker:
   api: fix-EPMRPP-120613-manual-launch-perf-2747
   jobs: develop-50
   jobsbill: develop-82
-  ui: develop-1522
+  ui: develop-1523
   analyzer: 5.15.5
   metricsgatherer: 5.13.0
