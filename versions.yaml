@@ -1,9 +1,9 @@
 docker:
-  migrations: develop-121
+  migrations: develop-123
   authorization: develop-104
   index: develop-37
-  api: fix-EPMRPP-120613-manual-launch-perf-2747
-  jobs: develop-50
+  api: develop-686
+  jobs: develop-51
   jobsbill: develop-82
   ui: develop-1523
   analyzer: 5.15.5
