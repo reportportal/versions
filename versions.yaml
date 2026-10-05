@@ -1,7 +1,7 @@
 docker:
   migrations: develop-124
   authorization: develop-104
-  index: develop-37
+  index: 5.15.0
   api: develop-690
   jobs: develop-51
   jobsbill: develop-97
