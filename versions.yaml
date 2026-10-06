@@ -1,7 +1,7 @@
 docker:
   migrations: rc-5.15.5-45
   authorization: rc-5.15.2-92
-  index: 5.15.2-snapshot-1
+  index: rc-5.15.2-31
   api: rc-5.15.5-193
   jobs: rc-5.15.3-34
   jobsbill: 5.15.2
