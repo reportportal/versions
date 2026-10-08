@@ -1,6 +1,6 @@
 docker:
   migrations: rc-5.15.5-45
-  authorization: rc-5-15-3-128-epam
+  authorization: 5.15.3-fix-1
   index: rc-5.15.2-32
   api: rc-5.15.5-193
   jobs: rc-5.15.3-34
