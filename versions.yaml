@@ -4,7 +4,7 @@ docker:
   index: 5.15.0
   api: develop-700
   jobs: develop-51
-  jobsbill: epmrpp-119530-spring-boot-4-106
+  jobsbill: develop-107
   ui: develop-1530
   analyzer: develop-455
   metricsgatherer: 5.13.0
