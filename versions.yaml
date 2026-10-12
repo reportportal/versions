@@ -2,7 +2,7 @@ docker:
   migrations: develop-125
   authorization: develop-104
   index: 5.15.0
-  api: update-api-registry-2823
+  api: develop-700
   jobs: develop-51
   jobsbill: epmrpp-119530-spring-boot-4-106
   ui: develop-1530
