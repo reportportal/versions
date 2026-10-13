@@ -1,10 +1,10 @@
 docker:
-  migrations: EPMRPP-120569
-  authorization: feature
-  index: develop-39
-  api: feature-upcoming-2736
-  jobs: EPMRPP-121745
-  jobsbill: 5.15.2
-  ui: feature-upcoming-4129
-  analyzer: 5.15.5
+  migrations: 
+  authorization: 
+  index: 
+  api: 
+  jobs: 
+  jobsbill: 
+  ui: rc-6.0.0-164
+  analyzer: 
   metricsgatherer: 5.13.0
