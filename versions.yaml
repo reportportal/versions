@@ -1,10 +1,10 @@
 docker:
-  migrations: 5.15.4
-  authorization: 5.15.1-r5-debug
-  index: 5.15.1
+  migrations: 5.15.5
+  authorization: 5.15.2
+  index: 5.15.2
   api: kaizer-fix-1
-  jobs: 5.15.2
-  jobsbill: 5.15.2
-  ui: 5.15.5
-  analyzer: 5.15.5
+  jobs: 5.15.3
+  jobsbill: rc-5-15-3-102
+  ui: 5.15.6
+  analyzer: 5.15.6
   metricsgatherer: 5.13.0
