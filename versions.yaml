@@ -1,10 +1,10 @@
 docker:
-  migrations: EPMRPP-120569
-  authorization: feature
+  migrations: 5.15.4
+  authorization: 5.15.1-r5-debug
   index: 5.15.1
-  api: EPMRPP-99227-2580
-  jobs: feature
+  api: kaizer-fix-1
+  jobs: 5.15.2
   jobsbill: 5.15.2
-  ui: feature-upcoming-4079
+  ui: 5.15.5
   analyzer: 5.15.5
   metricsgatherer: 5.13.0
