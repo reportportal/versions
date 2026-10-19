@@ -1,8 +1,8 @@
 docker:
   migrations: 5.15.5
-  authorization: 5.15.2
+  authorization: rc-5-15-3-129-epam
   index: 5.15.2
-  api: kaizer-fix-2
+  api: 5.15.5
   jobs: 5.15.3
   jobsbill: rc-5-15-3-102
   ui: 5.15.6
