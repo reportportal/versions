@@ -1,6 +1,6 @@
 docker:
   # migrations: develop-120
-  migrations: develop-130
+  migrations: feature-pipelines-357
   authorization: develop-104
   index: develop-37
   api: feature-pipelines-2876
