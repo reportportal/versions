@@ -3,7 +3,7 @@ docker:
   authorization: develop-104
   index: develop-37
   api: feature-pipelines-2876
-  jobs: develop-44
+  jobs: develop-51
   jobsbill: develop-47
   ui: bootcamp-prototype-4171
   analyzer: rc-5.15.5-146
