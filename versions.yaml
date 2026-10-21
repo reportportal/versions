@@ -1,8 +1,8 @@
 docker:
-  migrations: rc-5.15.6-50
+  migrations: rc-5.15.6-52
   authorization: 5.15.2
   index: 5.15.2
-  api: rc-5.15.6-204
+  api: rc-5.15.6-206
   jobs: 5.15.3
   jobsbill: null
   ui: 5.15.6
