@@ -2,9 +2,9 @@ docker:
   migrations: develop-125
   authorization: develop-104
   index: 5.15.0
-  api: bug-EPMRPP-122231-2851
+  api: develop-702
   jobs: develop-51
   jobsbill: develop-107
-  ui: develop-1544
+  ui: develop-1545
   analyzer: develop-468
   metricsgatherer: 5.13.0
