@@ -6,5 +6,5 @@ docker:
   jobs: rc-6.0.0-36
   jobsbill: develop-latest
   ui: rc-6.0.0-186
-  analyzer: rc-6.0.0-175
+  analyzer: rc-6.0.0-177
   metricsgatherer: 5.13.0
