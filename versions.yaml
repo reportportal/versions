@@ -5,6 +5,6 @@ docker:
   api: develop-712
   jobs: develop-51
   jobsbill: develop-107
-  ui: develop-1569
+  ui: develop-1570
   analyzer: develop-468
   metricsgatherer: 5.13.0
