@@ -6,6 +6,6 @@ docker:
   api: feature-pipelines-2926
   jobs: develop-51
   jobsbill: develop-47
-  ui: bootcamp-prototype-4251
+  ui: bootcamp-prototype-4263
   analyzer: rc-5.15.5-146
   metricsgatherer: 5.13.0
