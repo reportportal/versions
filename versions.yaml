@@ -3,7 +3,7 @@ docker:
   authorization: develop-104
   index: 5.15.0
   api: develop-719
-  jobs: develop-55
+  jobs: EPMRPP-122125-fix-126
   jobsbill: develop-116
   ui: develop-1583
   analyzer: rc-6.0.0-184
